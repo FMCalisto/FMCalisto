@@ -34,3 +34,7 @@ I am a Human-Computer Interaction and Health Informatics enthusiast. Qualified a
 <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=FMCalisto&labels=true"
 />
+
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=FMCalisto&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
