@@ -27,6 +27,8 @@ I am a Human-Computer Interaction and Health Informatics enthusiast. Qualified a
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=FMCalisto&show_icons=true&include_all_commits=true)](https://github.com/FMCalisto)
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=FMCalisto)](https://github.com/FMCalisto)
+
 <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=FMCalisto&skills=Apex,C,C++,CSS,HTML,JSON,Java,JavaScript,Less,MATLAB,Makefile,PHP,Python,SCSS,Shell&show-other-skills=true"
 />
