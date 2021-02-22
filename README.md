@@ -27,16 +27,15 @@ I am a Human-Computer Interaction and Health Informatics enthusiast. Qualified a
 
 Apart from being an Open Source'rer, I also write on [Medium](https://medium.com/@FMCalisto) and [DEV.to](https://dev.to/fmcalisto) platforms. Please, be free to follow my work there. Hope to help you!
 
-
 ## &#x1f4c8; GitHub Stats
 
 ![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=FMCalisto)
 
 <a href="https://github.com/FMCalisto/FMCalisto">
-  <img height="175px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FMCalisto&layout=compact&langs_count=10&hide=asp,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img height="195px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FMCalisto&layout=compact&langs_count=10&hide=asp,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/FMCalisto/FMCalisto">
-  <img height="175px" align="center" src="https://github-readme-stats.vercel.app/api?username=FMCalisto&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Francisco's GitHub Stats" />
+  <img height="195px" align="center" src="https://github-readme-stats.vercel.app/api?username=FMCalisto&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Francisco's GitHub Stats" />
 </a>
 
 ## &#x1f4c8; CodersRank Stats
