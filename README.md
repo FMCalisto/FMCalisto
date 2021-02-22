@@ -29,11 +29,14 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
 
 ## &#x1f4c8; GitHub Stats
 
- ![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=FMCalisto)
+![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=FMCalisto)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=FMCalisto&show_icons=true&include_all_commits=true)](https://github.com/FMCalisto)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FMCalisto)](https://github.com/FMCalisto)
+<a href="https://github.com/FMCalisto/FMCalisto">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FMCalisto&hide=css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/FMCalisto/FMCalisto">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FMCalisto&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Francisco's GitHub Stats" />
+</a>
 
 <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=FMCalisto&skills=Apex,C,C++,CSS,HTML,JSON,Java,JavaScript,Less,MATLAB,Makefile,PHP,Python,SCSS,Shell&show-other-skills=true"
