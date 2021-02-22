@@ -38,7 +38,7 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
   <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=FMCalisto&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Francisco's GitHub Stats" />
 </a>
 
-## &#x1f4c8; CodersRank Stats
+## &#x1f4c9; CodersRank Stats
 
 <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=FMCalisto&skills=Apex,C,C++,CSS,HTML,JSON,Java,JavaScript,Less,MATLAB,Makefile,PHP,Python,SCSS,Shell&show-other-skills=true"
