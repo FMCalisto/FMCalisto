@@ -25,7 +25,7 @@ I am a Human-Computer Interaction and Health Informatics enthusiast. Qualified a
 
 ## &#x270d; Blog & Writing
 
-Apart from being an Open Source'rer, I also write on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz) platforms. Please, be free to follow my work there. Hope to help you!
+Apart from being an Open Source'rer, I also write on [Medium](https://medium.com/@FMCalisto) and [DEV.to](https://dev.to/fmcalisto) platforms. Please, be free to follow my work there. Hope to help you!
 
 ## &#x1f4c8; GitHub Stats
 
