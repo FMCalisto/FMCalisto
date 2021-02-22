@@ -41,4 +41,4 @@ I am a Human-Computer Interaction and Health Informatics enthusiast. Qualified a
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=FMCalisto&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
 />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FMCalisto&repo=machine-learning-stanford-coursera)]https://github.com/FMCalisto/machine-learning-stanford-coursera)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FMCalisto&repo=machine-learning-stanford-coursera)](https://github.com/FMCalisto/machine-learning-stanford-coursera)
