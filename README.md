@@ -52,7 +52,7 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=FMCalisto&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
 />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FMCalisto&repo=prototype-multi-modality-assistant)](https://github.com/mida-project/prototype-multi-modality-assistant)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mida-project&repo=prototype-multi-modality-assistant)](https://github.com/mida-project/prototype-multi-modality-assistant)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mida-project&repo=prototype-heatmap)](https://github.com/mida-project/prototype-heatmap)
 
