@@ -53,9 +53,7 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
 />
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mida-project&repo=prototype-multi-modality-assistant)](https://github.com/mida-project/prototype-multi-modality-assistant)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mida-project&repo=prototype-heatmap)](https://github.com/mida-project/prototype-heatmap)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MIMBCD-UI&repo=prototype-multi-modality)](https://github.com/MIMBCD-UI/prototype-multi-modality)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MIMBCD-UI&repo=dataset-uta7-dicom)](https://github.com/MIMBCD-UI/dataset-uta7-dicom)
