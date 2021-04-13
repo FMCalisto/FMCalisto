@@ -52,4 +52,16 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=FMCalisto&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
 />
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FMCalisto&repo=prototype-multi-modality-assistant)](https://github.com/mida-project/prototype-multi-modality-assistant)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FMCalisto&repo=prototype-heatmap)](https://github.com/mida-project/prototype-heatmap)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FMCalisto&repo=prototype-multi-modality)](https://github.com/MIMBCD-UI/prototype-multi-modality)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FMCalisto&repo=dataset-uta7-dicom)](https://github.com/MIMBCD-UI/dataset-uta7-dicom)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FMCalisto&repo=dataset-uta4-classifications)](https://github.com/MIMBCD-UI/dataset-uta4-classifications)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FMCalisto&repo=dataset-uta7-annotations)](https://github.com/MIMBCD-UI/dataset-uta7-annotations)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FMCalisto&repo=machine-learning-stanford-coursera)](https://github.com/FMCalisto/machine-learning-stanford-coursera)
