@@ -59,4 +59,4 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MIMBCD-UI&repo=dataset-uta4-classifications)](https://github.com/MIMBCD-UI/dataset-uta4-classifications)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MIMBCD-UI&repo=dataset-uta7-annotations)](https://github.com/MIMBCD-UI/dataset-uta7-annotations)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FMCalisto&repo=machine-learning-stanford-coursera)](https://github.com/FMCalisto/machine-learning-stanford-coursera)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MIMBCD-UI&repo=prototype-multi-modality)](https://github.com/MIMBCD-UI/prototype-multi-modality)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MIMBCD-UI&repo=prototype-cornerstone)](https://github.com/MIMBCD-UI/prototype-cornerstone)
