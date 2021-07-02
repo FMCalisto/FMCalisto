@@ -23,7 +23,6 @@ https://hashnode.com/@FMCalisto)
 
 I am a Human-Computer Interaction and Health Informatics enthusiast. Qualified and experienced at working as a Research Assistant & Software Engineer. I have been working with several Associated Laboratories of [Instituto Superior Técnico (IST)](https://tecnico.ulisboa.pt/) since 2015. Researching & Developing (R&D) in areas such as Human-Computer Interaction (HCI), User-Centered Design (UCD), Information Visualization (InfoVis) and Health Informatics (HI). Also lecturing on those areas. Prior to IST, I was part of several [Entrepreneurship](http://fmcalisto.github.io/#entrepreneur) projects, from Agriculture to Advertisement, building systems for both business areas.
 
-
 ## &#x270d; Blog & Writing
 
 Apart from being an Open Source'rer, I also write on [Medium](https://medium.com/@FMCalisto) and [DEV.to](https://dev.to/fmcalisto) platforms. Please, be free to follow my work there. Hope to help you!
