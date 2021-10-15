@@ -60,3 +60,11 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MIMBCD-UI&repo=dataset-uta7-dicom)](https://github.com/MIMBCD-UI/dataset-uta7-dicom)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MIMBCD-UI&repo=dataset-uta4-classifications)](https://github.com/MIMBCD-UI/dataset-uta4-classifications)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MIMBCD-UI&repo=dataset-uta7-annotations)](https://github.com/MIMBCD-UI/dataset-uta7-annotations)
+
+<!--
+
+Unlike **Python**, the **R** language was developed exclusively to analyze data and to develop solutions and applications that are able to execute statistical analyses and data mining [1]. It is a complete ecosystem for data analysis, with an incredible variety of libraries and packages available.
+
+Most functions of the **R** language are *vectorized*, meaning that [the function will operate on all elements of a vector without needing to loop through and act on each element once at a time][101]. This makes programming more concise, easy to read, and less error-prone. On the contrary, we need to use [NumPy][102] arrays (*i.e.*, the so called [`np.array()`][103] methods) to have vectorized operations in **Python** [2], so that we can better achieve an optimized solution.
+
+-->
