@@ -67,4 +67,8 @@ Unlike **Python**, the **R** language was developed exclusively to analyze data 
 
 Most functions of the **R** language are *vectorized*, meaning that [the function will operate on all elements of a vector without needing to loop through and act on each element once at a time][101]. This makes programming more concise, easy to read, and less error-prone. On the contrary, we need to use [NumPy][102] arrays (*i.e.*, the so called [`np.array()`][103] methods) to have vectorized operations in **Python** [2], so that we can better achieve an optimized solution.
 
+**2.** Why does the results show an average difference of time complexity and performance?
+
+**3.** How does Python and R scales out to parallel processing in terms of complexity and performance?
+
 -->
