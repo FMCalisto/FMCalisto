@@ -32,7 +32,7 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
 ![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=FMCalisto)
 
 <a href="https://github.com/FMCalisto/FMCalisto">
-  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FMCalisto&count_private=true&layout=compact&langs_count=10&hide=asp,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FMCalisto&layout=compact&langs_count=10&hide=asp,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/FMCalisto/FMCalisto">
   <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=FMCalisto&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Francisco's GitHub Stats" />
