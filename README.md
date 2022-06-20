@@ -72,3 +72,7 @@ Most functions of the **R** language are *vectorized*, meaning that [the functio
 **3.** How does Python and R scales out to parallel processing in terms of complexity and performance?
 
 -->
+
+### 📈 Total Contributions and Streaks
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FMCalisto"/>
