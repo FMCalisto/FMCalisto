@@ -23,6 +23,12 @@ https://fmcalisto.hashnode.dev/)
 
 Francisco Maria Calisto is a Human-Computer Interaction (HCI) and Health Informatics (HI) enthusiast. He holds a Bachelor of Engineering degree in Computer Science and Engineering, as well as a Master of Engineering in Information Systems and Computer Engineering at [Instituto Superior Técnico (IST)](https://tecnico.ulisboa.pt/). Qualified and experienced at working as a Researcher & Software Engineer, his work is settled in several directions. He is a system design thinker who is passionate about exploring how new interactive ideas, technologies, and business models can address the most pressing problems, particularly in healthcare. Francisco has been working with several Associated Laboratories of IST since 2015. Between 2015 and 2017, Francisco was working at [INESC-ID](https://www.inesc-id.pt) and, since then, he is working at [ISR-Lisboa](https://welcome.isr.tecnico.ulisboa.pt) in collaboration with [ITI](https://iti.larsys.pt). Both [ISR-Lisboa](https://welcome.isr.tecnico.ulisboa.pt) and [ITI](https://iti.larsys.pt) are associate laboratories of [LARSyS](https://larsys.pt/), currently being the host laboratories for his Doctoral Program. Researching & Developing (R&D) in areas such as HCI, User-Centered Design (UCD), Information Visualization (InfoVis), and HI, understanding and reducing the user burdens of interactive technologies for health professionals, patients, and people with disabilities through the design of future applications. Also lecturing on those areas during this path. Prior to IST, he was part of several [Entrepreneurship](http://fmcalisto.github.io/#entrepreneur) projects, from Agriculture to Advertisement, building systems for both business areas. He has designed, developed, and evaluated mobile, sensor, and collaborative applications for helping users (*e.g.*, physicians, patients, and so on). His primary research methods involve UCD, InfoVis, technology development, as well as a mix of qualitative and quantitative methods.
 
+## 💲 Support me on:
+
+- 👉 🌍 [BuyMeACoffe](https://www.buymeacoffee.com/FMCalisto?utm_source=github)
+- 👉 🌍 [Ko-Fi](https://ko-fi.com/FMCalisto)
+- 👉 🌍 [Paypal](https://www.paypal.me/oppr?utm_source=github)
+
 ## &#x270d; Blog & Writing
 
 Apart from being an Open Source'rer, I also write on [Medium](https://medium.com/@FMCalisto) and [DEV.to](https://dev.to/fmcalisto) platforms. Please, be free to follow my work there. Hope to help you!
