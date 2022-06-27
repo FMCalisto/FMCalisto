@@ -67,6 +67,14 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MIMBCD-UI&repo=dataset-uta4-classifications)](https://github.com/MIMBCD-UI/dataset-uta4-classifications)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MIMBCD-UI&repo=dataset-uta7-annotations)](https://github.com/MIMBCD-UI/dataset-uta7-annotations)
 
+## Research
+
+- [MIMBCD-UI](https://mimbcd-ui.github.io/) ([@MIMBCD-UI](https://github.com/MIMBCD-UI))
+
+- [MIDA](https://mida-project.github.io/) ([@mida-project](https://github.com/mida-project))
+
+- [BreastScreening](https://BreastScreening.github.io/) ([@BreastScreening](https://github.com/BreastScreening))
+
 <!--
 
 Unlike **Python**, the **R** language was developed exclusively to analyze data and to develop solutions and applications that are able to execute statistical analyses and data mining [1]. It is a complete ecosystem for data analysis, with an incredible variety of libraries and packages available.
