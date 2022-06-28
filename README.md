@@ -73,6 +73,8 @@ As researcher, [Google Scholar](https://scholar.google.com/citations?user=KI0G_S
 
 List of research repositories:
 
+- [SIPG-ISR](http://sipg.isr.ist.utl.pt/) ([@sipg-isr](https://github.com/sipg-isr))
+
 - [MIMBCD-UI](https://mimbcd-ui.github.io/) ([@MIMBCD-UI](https://github.com/MIMBCD-UI))
 
 - [MIDA](https://mida-project.github.io/) ([@mida-project](https://github.com/mida-project))
