@@ -25,9 +25,11 @@ Francisco Maria Calisto is a Human-Computer Interaction (HCI) and Health Informa
 
 ## &#x24; Support me on:
 
-- &#x261E; [BuyMeACoffe](https://www.buymeacoffee.com/FMCalisto?utm_source=github)
-- &#x261E; [Ko-Fi](https://ko-fi.com/FMCalisto)
-- &#x261E; [Paypal](https://www.paypal.me/oppr?utm_source=github)
+&#x27A4; [BuyMeACoffe](https://www.buymeacoffee.com/FMCalisto?utm_source=github)
+
+&#x27A4; [Ko-Fi](https://ko-fi.com/FMCalisto)
+
+&#x27A4; [Paypal](https://www.paypal.me/oppr?utm_source=github)
 
 ## &#x270d; Blog & Writing
 
