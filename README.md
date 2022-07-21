@@ -35,6 +35,11 @@ Francisco Maria Calisto is a Human-Computer Interaction (HCI) and Health Informa
 
 Apart from being an Open Source'rer, I also write on [Medium](https://medium.com/@FMCalisto) and [DEV.to](https://dev.to/fmcalisto) platforms. Please, be free to follow my work there. Hope to help you!
 
+### Recent Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## &#x1f4c8; GitHub Stats
 
 ![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=FMCalisto)
