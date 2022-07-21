@@ -46,6 +46,10 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
   <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=FMCalisto&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Francisco's GitHub Stats" />
 </a>
 
+## &#x1f4ca; "Week Time Spent
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=FMCalisto&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+
 ## &#x1f4c9; CodersRank Stats
 
 <img
