@@ -48,7 +48,7 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
 
 ## &#x1f4ca; Time Spent Coding
 
-<a href="https://wakatime.com/@5585b7b2-927c-4a2f-9964-8277bf5cf592"><img src="https://wakatime.com/badge/user/5585b7b2-927c-4a2f-9964-8277bf5cf592.svg" alt="Total time coded since Jan 17 2015" /></a>
+[![wakatime](https://wakatime.com/badge/user/5585b7b2-927c-4a2f-9964-8277bf5cf592.svg?style=for-the-badge)](https://wakatime.com/@5585b7b2-927c-4a2f-9964-8277bf5cf592)
 
 ## &#x1f4c9; CodersRank Stats
 
