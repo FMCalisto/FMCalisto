@@ -40,6 +40,11 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+### StackOverflow Activity
+
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
+
 ## &#x1f4c8; GitHub Stats
 
 ![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=FMCalisto)
