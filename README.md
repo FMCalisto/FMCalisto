@@ -3,11 +3,6 @@
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FMCalisto)
 [![GitLab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/FMCalisto)
 [![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/FCalisto/)
-[![StackOverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2371987/francisco-maria-calisto)
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@FMCalisto)
-[![DEV Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/fmcalisto)
-[![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](
-https://fmcalisto.hashnode.dev/)
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FMCalisto)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fmcalisto/)
@@ -15,7 +10,6 @@ https://fmcalisto.hashnode.dev/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/FMCalisto/)
 [![TikTok Badge](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@fmcalisto)
 
-[![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/FMCalisto)
 [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/fmcalisto)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNtLUA729o8o5XGiC7iTFxQ)
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/888781?style=for-the-badge)](https://mastodon.social/@FMCalisto)
@@ -43,6 +37,8 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
 
 ### [![Dev.to](https://img.shields.io/badge/-Dev.to-ffffff?style=for-the-badge&logo=dev.to&logoColor=0A0A0A)](https://dev.to/FMCalisto)
 
+[![DEV Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/fmcalisto)
+
 <!-- DEVTO:START -->
 - [Finding the maximum integer value contained in a matrix using Java](https://dev.to/fmcalisto/finding-the-maximum-integer-value-contained-in-a-matrix-using-java-e6h)
 - [Efficiency of Multithreaded Loops](https://dev.to/fmcalisto/efficiency-of-multithreaded-loops-3fae)
@@ -52,6 +48,9 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
 <!-- DEVTO:END -->
 
 ### [![Hashnode](https://img.shields.io/badge/-Hashnode-ffffff?style=for-the-badge&logo=hashnode&logoColor=0A0A0A)]([https://dev.to/FMCalisto](https://fmcalisto.hashnode.dev/))
+
+[![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](
+https://fmcalisto.hashnode.dev/)
 
 <!-- HASHNODE:START -->
 - [How to have more than 250,000 contributions to GitHub in 10 years?](https://fmcalisto.hashnode.dev/how-to-have-more-than-250000-contributions-to-github-in-10-years)
@@ -64,6 +63,8 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
 <!-- FCC:END -->
 
 ### [![Medium](https://img.shields.io/badge/-Medium-ffffff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@fmcalisto)
+
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@FMCalisto)
 
 <!-- MEDIUM:START -->
 - [Medical Imaging Downloader for CornerstoneJS and Orthanc](https://medium.com/oppr/medical-imaging-downloader-for-cornerstonejs-and-orthanc-d08c3a508d9b?source=rss-78163c945086------2)
@@ -148,6 +149,8 @@ TODO...
 
 ### StackOverflow Activity
 
+[![StackOverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2371987/francisco-maria-calisto)
+
 <!-- STACKOVERFLOW:START -->
 - [Answer by Francisco Maria Calisto for How to use cornerstonejs to display the CT image by VUE3?](https://stackoverflow.com/questions/72824006/how-to-use-cornerstonejs-to-display-the-ct-image-by-vue3/72830534#72830534)
 - [How to convert duration of MM:SS to seconds in Google Sheets?](https://stackoverflow.com/questions/72820665/how-to-convert-duration-of-mmss-to-seconds-in-google-sheets)
@@ -163,6 +166,8 @@ TODO...
 ## &#x270d; Discussions
 
 ### [![Reddit](https://img.shields.io/badge/-Reddit-ffffff?style=for-the-badge&logo=reddit&logoColor=black)]([https://medium.com/@fmcalisto](https://www.reddit.com/user/FMCalisto))
+
+[![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/FMCalisto)
 
 <!-- REDDIT:START -->
 - [/u/FMCalisto on Complex Loop Optimization](https://www.reddit.com/r/lisp/comments/w3j4hj/complex_loop_optimization/igwnuvs/)
