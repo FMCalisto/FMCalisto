@@ -15,4 +15,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: BLOG
-          feed_list: "https://fmcalisto.hashnode.dev/rss.xml, http://www.reddit.com/r/news/.rss, https://fmcalisto.blogspot.com/feeds/posts/default, https://fmcalisto.tumblr.com/rss, https://medium.com/feed/@fmcalisto"
+          feed_list: "https://fmcalisto.blogspot.com/feeds/posts/default, https://fmcalisto.tumblr.com/rss"
