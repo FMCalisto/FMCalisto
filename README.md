@@ -37,13 +37,8 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
 
 ### Recent Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [EXCLUSIVE Hyundai subsidiary has used child labor at Alabama factory](https://www.reddit.com/r/news/comments/w5b4ec/exclusive_hyundai_subsidiary_has_used_child_labor/)
-- [Florida police sergeant seen grabbing officer by the throat is charged with battery and assault](https://www.reddit.com/r/news/comments/w5avl3/florida_police_sergeant_seen_grabbing_officer_by/)
-- [Nasa&#39;s James Webb telescope reveals millions of galaxies](https://www.reddit.com/r/news/comments/w5agkw/nasas_james_webb_telescope_reveals_millions_of/)
-- [San Francisco businesses struggle to hang on as tech workers stay home](https://www.reddit.com/r/news/comments/w59grt/san_francisco_businesses_struggle_to_hang_on_as/)
-- [Extreme heat warnings in effect in 28 states across US](https://www.reddit.com/r/news/comments/w58as8/extreme_heat_warnings_in_effect_in_28_states/)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG:START -->
+<!-- BLOG:END -->
 
 ### StackOverflow Activity
 
@@ -54,6 +49,26 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
 - [Answer by Francisco Maria Calisto for Is there a way to store values in cornerstoneTool?](https://stackoverflow.com/questions/70391766/is-there-a-way-to-store-values-in-cornerstonetool/72704446#72704446)
 - [Answer by Francisco Maria Calisto for Javascript cornerstone JS error: apiTool is not a constructor](https://stackoverflow.com/questions/71123382/javascript-cornerstone-js-error-apitool-is-not-a-constructor/72700021#72700021)
 <!-- STACKOVERFLOW:END -->
+
+### [![Dev.to](https://img.shields.io/badge/-Dev.to-ffffff?style=for-the-badge&logo=dev.to&logoColor=0A0A0A)](https://dev.to/FMCalisto)
+
+<!-- DEVTO:START -->
+<!-- DEVTO:END -->
+
+### [![Hashnode](https://img.shields.io/badge/-Hashnode-ffffff?style=for-the-badge&logo=dev.to&logoColor=0A0A0A)](https://dev.to/FMCalisto)
+
+<!-- HASHNODE:START -->
+<!-- HASHNODE:END -->
+
+### [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-ffffff?style=for-the-badge&logo=freecodecamp&logoColor=0A0A23)](https://www.freecodecamp.org/news/author/FMGFCalisto/)
+
+<!-- FCC:START -->
+<!-- FCC:END -->
+
+### [![Medium](https://img.shields.io/badge/-Medium-ffffff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@fmcalisto)
+
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
 
 ## &#x1f4c8; GitHub Stats
 
