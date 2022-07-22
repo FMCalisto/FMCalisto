@@ -75,7 +75,7 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
 <!-- REDDIT:START -->
 <!-- REDDIT:END -->
 
-### [![Tumblr](https://img.shields.io/badge/-Tumblr-ffffff?style=for-the-badge&logo=tumblr&logoColor=black)]([[https://medium.com/@fmcalisto](https://fmcalisto.tumblr.com]([https://www.reddit.com/user/FMCalisto](https://fmcalisto.tumblr.com))
+### [![Tumblr](https://img.shields.io/badge/-Tumblr-ffffff?style=for-the-badge&logo=tumblr&logoColor=black)](https://fmcalisto.tumblr.com)
 
 <!-- TUMBLR:START -->
 <!-- TUMBLR:END -->
