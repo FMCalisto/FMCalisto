@@ -38,6 +38,11 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
 ### Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Finding the maximum integer value contained in a matrix using Java](https://dev.to/fmcalisto/finding-the-maximum-integer-value-contained-in-a-matrix-using-java-e6h)
+- [How to have more than 250,000 contributions to GitHub in 10 years?](https://fmcalisto.hashnode.dev/how-to-have-more-than-250000-contributions-to-github-in-10-years)
+- [Efficiency of Multithreaded Loops](https://dev.to/fmcalisto/efficiency-of-multithreaded-loops-3fae)
+- [How to create a script to add, commit and push file by file a set of new or changed files?](https://dev.to/fmcalisto/how-to-create-a-script-to-add-commit-and-push-file-by-file-a-set-of-new-or-changed-files-3goa)
+- [Comparing R and Python Vectorization and Optimization](https://dev.to/fmcalisto/comparing-r-and-python-vectorization-and-optimization-n51)
 <!-- BLOG-POST-LIST:END -->
 
 ### StackOverflow Activity
