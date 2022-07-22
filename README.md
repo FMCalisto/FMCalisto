@@ -66,6 +66,9 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
 ### [![Medium](https://img.shields.io/badge/-Medium-ffffff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@fmcalisto)
 
 <!-- MEDIUM:START -->
+- [Medical Imaging Downloader for CornerstoneJS and Orthanc](https://medium.com/oppr/medical-imaging-downloader-for-cornerstonejs-and-orthanc-d08c3a508d9b?source=rss-78163c945086------2)
+- [Using CornerstoneJS and Orthanc to Support Deep Learning Projects](https://medium.com/oppr/using-cornerstonejs-and-orthanc-to-support-deep-learning-projects-c9675819c33a?source=rss-78163c945086------2)
+- [Applying New Paradigms in Human-Computer Interaction to Health Informatics](https://medium.com/oppr/applying-new-paradigms-in-human-computer-interaction-to-health-informatics-86d6a7046130?source=rss-78163c945086------2)
 <!-- MEDIUM:END -->
 
 ### [![Tumblr](https://img.shields.io/badge/-Tumblr-ffffff?style=for-the-badge&logo=tumblr&logoColor=black)](https://fmcalisto.tumblr.com)
