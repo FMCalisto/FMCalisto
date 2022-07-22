@@ -162,4 +162,9 @@ TODO...
 ### [![Reddit](https://img.shields.io/badge/-Reddit-ffffff?style=for-the-badge&logo=reddit&logoColor=black)]([https://medium.com/@fmcalisto](https://www.reddit.com/user/FMCalisto))
 
 <!-- REDDIT:START -->
+- [/u/FMCalisto on Complex Loop Optimization](https://www.reddit.com/r/lisp/comments/w3j4hj/complex_loop_optimization/igwnuvs/)
+- [Complex Loop Optimization](https://www.reddit.com/r/lisp/comments/w3j4hj/complex_loop_optimization/)
+- [How to have more than 250,000 contributions to GitHub in 10 years?](https://www.reddit.com/r/u_FMCalisto/comments/vhm5fm/how_to_have_more_than_250000_contributions_to/)
+- [/u/FMCalisto on Is there such thing as doing too many commits?](https://www.reddit.com/r/git/comments/3afubp/is_there_such_thing_as_doing_too_many_commits/id7q3b8/)
+- [/u/FMCalisto on More than 270,000 contributions to GitHub](https://www.reddit.com/r/programming/comments/vh8xph/more_than_270000_contributions_to_github/id6306h/)
 <!-- REDDIT:END -->
