@@ -42,7 +42,7 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
 - [Florida police sergeant seen grabbing officer by the throat is charged with battery and assault](https://www.reddit.com/r/news/comments/w5avl3/florida_police_sergeant_seen_grabbing_officer_by/)
 - [Nasa&#39;s James Webb telescope reveals millions of galaxies](https://www.reddit.com/r/news/comments/w5agkw/nasas_james_webb_telescope_reveals_millions_of/)
 - [San Francisco businesses struggle to hang on as tech workers stay home](https://www.reddit.com/r/news/comments/w59grt/san_francisco_businesses_struggle_to_hang_on_as/)
-- [Man killed as sink hole opens under swimming pool in Israel](https://www.reddit.com/r/news/comments/w58g5v/man_killed_as_sink_hole_opens_under_swimming_pool/)
+- [Extreme heat warnings in effect in 28 states across US](https://www.reddit.com/r/news/comments/w58as8/extreme_heat_warnings_in_effect_in_28_states/)
 <!-- BLOG-POST-LIST:END -->
 
 ### StackOverflow Activity
