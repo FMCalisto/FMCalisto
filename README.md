@@ -38,11 +38,11 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
 ### Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Finding the maximum integer value contained in a matrix using Java](https://dev.to/fmcalisto/finding-the-maximum-integer-value-contained-in-a-matrix-using-java-e6h)
-- [How to have more than 250,000 contributions to GitHub in 10 years?](https://fmcalisto.hashnode.dev/how-to-have-more-than-250000-contributions-to-github-in-10-years)
-- [Efficiency of Multithreaded Loops](https://dev.to/fmcalisto/efficiency-of-multithreaded-loops-3fae)
-- [How to create a script to add, commit and push file by file a set of new or changed files?](https://dev.to/fmcalisto/how-to-create-a-script-to-add-commit-and-push-file-by-file-a-set-of-new-or-changed-files-3goa)
-- [Comparing R and Python Vectorization and Optimization](https://dev.to/fmcalisto/comparing-r-and-python-vectorization-and-optimization-n51)
+- [EXCLUSIVE Hyundai subsidiary has used child labor at Alabama factory](https://www.reddit.com/r/news/comments/w5b4ec/exclusive_hyundai_subsidiary_has_used_child_labor/)
+- [Florida police sergeant seen grabbing officer by the throat is charged with battery and assault](https://www.reddit.com/r/news/comments/w5avl3/florida_police_sergeant_seen_grabbing_officer_by/)
+- [Nasa&#39;s James Webb telescope reveals millions of galaxies](https://www.reddit.com/r/news/comments/w5agkw/nasas_james_webb_telescope_reveals_millions_of/)
+- [San Francisco businesses struggle to hang on as tech workers stay home](https://www.reddit.com/r/news/comments/w59grt/san_francisco_businesses_struggle_to_hang_on_as/)
+- [Man killed as sink hole opens under swimming pool in Israel](https://www.reddit.com/r/news/comments/w58g5v/man_killed_as_sink_hole_opens_under_swimming_pool/)
 <!-- BLOG-POST-LIST:END -->
 
 ### StackOverflow Activity
