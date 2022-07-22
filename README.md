@@ -30,12 +30,10 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
 
 ### Recent Blog Posts
 
-[![Blogger Badge](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://fmcalisto.blogspot.com/)
-
 <!-- BLOG:START -->
 <!-- BLOG:END -->
 
-[![Blogger Badge](https://img.shields.io/badge/Blogger-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://fmcalisto.blogspot.com/)
+[![Blogger Badge](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://fmcalisto.blogspot.com/)
 
 ### [![Dev.to](https://img.shields.io/badge/-Dev.to-ffffff?style=for-the-badge&logo=dev.to&logoColor=0A0A0A)](https://dev.to/FMCalisto)
 
@@ -51,13 +49,13 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
 
 ### [![Hashnode](https://img.shields.io/badge/-Hashnode-ffffff?style=for-the-badge&logo=hashnode&logoColor=0A0A0A)]([https://dev.to/FMCalisto](https://fmcalisto.hashnode.dev/))
 
-[![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](
-https://fmcalisto.hashnode.dev/)
-
 <!-- HASHNODE:START -->
 - [How to have more than 250,000 contributions to GitHub in 10 years?](https://fmcalisto.hashnode.dev/how-to-have-more-than-250000-contributions-to-github-in-10-years)
 - [PACS Integration Manually](https://fmcalisto.hashnode.dev/pacs-integration-manually)
 <!-- HASHNODE:END -->
+
+[![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](
+https://fmcalisto.hashnode.dev/)
 
 ### [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-ffffff?style=for-the-badge&logo=freecodecamp&logoColor=0A0A23)](https://www.freecodecamp.org/news/author/FMGFCalisto/)
 
@@ -66,13 +64,13 @@ https://fmcalisto.hashnode.dev/)
 
 ### [![Medium](https://img.shields.io/badge/-Medium-ffffff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@fmcalisto)
 
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@FMCalisto)
-
 <!-- MEDIUM:START -->
 - [Medical Imaging Downloader for CornerstoneJS and Orthanc](https://medium.com/oppr/medical-imaging-downloader-for-cornerstonejs-and-orthanc-d08c3a508d9b?source=rss-78163c945086------2)
 - [Using CornerstoneJS and Orthanc to Support Deep Learning Projects](https://medium.com/oppr/using-cornerstonejs-and-orthanc-to-support-deep-learning-projects-c9675819c33a?source=rss-78163c945086------2)
 - [Applying New Paradigms in Human-Computer Interaction to Health Informatics](https://medium.com/oppr/applying-new-paradigms-in-human-computer-interaction-to-health-informatics-86d6a7046130?source=rss-78163c945086------2)
 <!-- MEDIUM:END -->
+
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@FMCalisto)
 
 ### [![Tumblr](https://img.shields.io/badge/-Tumblr-ffffff?style=for-the-badge&logo=tumblr&logoColor=black)](https://fmcalisto.tumblr.com)
 
@@ -151,8 +149,6 @@ TODO...
 
 ### StackOverflow Activity
 
-[![StackOverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2371987/francisco-maria-calisto)
-
 <!-- STACKOVERFLOW:START -->
 - [Answer by Francisco Maria Calisto for How to use cornerstonejs to display the CT image by VUE3?](https://stackoverflow.com/questions/72824006/how-to-use-cornerstonejs-to-display-the-ct-image-by-vue3/72830534#72830534)
 - [How to convert duration of MM:SS to seconds in Google Sheets?](https://stackoverflow.com/questions/72820665/how-to-convert-duration-of-mmss-to-seconds-in-google-sheets)
@@ -160,6 +156,8 @@ TODO...
 - [Answer by Francisco Maria Calisto for Is there a way to store values in cornerstoneTool?](https://stackoverflow.com/questions/70391766/is-there-a-way-to-store-values-in-cornerstonetool/72704446#72704446)
 - [Answer by Francisco Maria Calisto for Javascript cornerstone JS error: apiTool is not a constructor](https://stackoverflow.com/questions/71123382/javascript-cornerstone-js-error-apitool-is-not-a-constructor/72700021#72700021)
 <!-- STACKOVERFLOW:END -->
+
+[![StackOverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2371987/francisco-maria-calisto)
 
 ### &#x272D; Total Contributions and Streaks
 
@@ -169,8 +167,6 @@ TODO...
 
 ### [![Reddit](https://img.shields.io/badge/-Reddit-ffffff?style=for-the-badge&logo=reddit&logoColor=black)]([https://medium.com/@fmcalisto](https://www.reddit.com/user/FMCalisto))
 
-[![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/FMCalisto)
-
 <!-- REDDIT:START -->
 - [/u/FMCalisto on Complex Loop Optimization](https://www.reddit.com/r/lisp/comments/w3j4hj/complex_loop_optimization/igwnuvs/)
 - [Complex Loop Optimization](https://www.reddit.com/r/lisp/comments/w3j4hj/complex_loop_optimization/)
@@ -178,3 +174,5 @@ TODO...
 - [/u/FMCalisto on Is there such thing as doing too many commits?](https://www.reddit.com/r/git/comments/3afubp/is_there_such_thing_as_doing_too_many_commits/id7q3b8/)
 - [/u/FMCalisto on More than 270,000 contributions to GitHub](https://www.reddit.com/r/programming/comments/vh8xph/more_than_270000_contributions_to_github/id6306h/)
 <!-- REDDIT:END -->
+
+[![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/FMCalisto)
