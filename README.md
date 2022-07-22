@@ -49,6 +49,8 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
 ### [![Hashnode](https://img.shields.io/badge/-Hashnode-ffffff?style=for-the-badge&logo=hashnode&logoColor=0A0A0A)]([https://dev.to/FMCalisto](https://fmcalisto.hashnode.dev/))
 
 <!-- HASHNODE:START -->
+- [How to have more than 250,000 contributions to GitHub in 10 years?](https://fmcalisto.hashnode.dev/how-to-have-more-than-250000-contributions-to-github-in-10-years)
+- [PACS Integration Manually](https://fmcalisto.hashnode.dev/pacs-integration-manually)
 <!-- HASHNODE:END -->
 
 ### [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-ffffff?style=for-the-badge&logo=freecodecamp&logoColor=0A0A23)](https://www.freecodecamp.org/news/author/FMGFCalisto/)
