@@ -35,9 +35,9 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
 <!-- BLOG:START -->
 <!-- BLOG:END -->
 
-### [![Dev.to](https://img.shields.io/badge/-Dev.to-ffffff?style=for-the-badge&logo=dev.to&logoColor=0A0A0A)](https://dev.to/FMCalisto)
+[![Blogger Badge](https://img.shields.io/badge/Blogger-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://fmcalisto.blogspot.com/)
 
-[![DEV Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/fmcalisto)
+### [![Dev.to](https://img.shields.io/badge/-Dev.to-ffffff?style=for-the-badge&logo=dev.to&logoColor=0A0A0A)](https://dev.to/FMCalisto)
 
 <!-- DEVTO:START -->
 - [Finding the maximum integer value contained in a matrix using Java](https://dev.to/fmcalisto/finding-the-maximum-integer-value-contained-in-a-matrix-using-java-e6h)
@@ -46,6 +46,8 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
 - [Comparing R and Python Vectorization and Optimization](https://dev.to/fmcalisto/comparing-r-and-python-vectorization-and-optimization-n51)
 - [Answer: Reading CT Scan dicom file](https://dev.to/fmcalisto/answer-reading-ct-scan-dicom-file-377l)
 <!-- DEVTO:END -->
+
+[![DEV Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/fmcalisto)
 
 ### [![Hashnode](https://img.shields.io/badge/-Hashnode-ffffff?style=for-the-badge&logo=hashnode&logoColor=0A0A0A)]([https://dev.to/FMCalisto](https://fmcalisto.hashnode.dev/))
 
