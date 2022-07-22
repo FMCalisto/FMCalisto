@@ -16,7 +16,6 @@ https://fmcalisto.hashnode.dev/)
 [![TikTok Badge](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@fmcalisto)
 
 [![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/FMCalisto)
-[![Blogger Badge](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://fmcalisto.blogspot.com/)
 [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/fmcalisto)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNtLUA729o8o5XGiC7iTFxQ)
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/888781?style=for-the-badge)](https://mastodon.social/@FMCalisto)
@@ -37,18 +36,10 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
 
 ### Recent Blog Posts
 
+[![Blogger Badge](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://fmcalisto.blogspot.com/)
+
 <!-- BLOG:START -->
 <!-- BLOG:END -->
-
-### StackOverflow Activity
-
-<!-- STACKOVERFLOW:START -->
-- [Answer by Francisco Maria Calisto for How to use cornerstonejs to display the CT image by VUE3?](https://stackoverflow.com/questions/72824006/how-to-use-cornerstonejs-to-display-the-ct-image-by-vue3/72830534#72830534)
-- [How to convert duration of MM:SS to seconds in Google Sheets?](https://stackoverflow.com/questions/72820665/how-to-convert-duration-of-mmss-to-seconds-in-google-sheets)
-- [Answer by Francisco Maria Calisto for Gradient Descent Reassignment in Pytorch](https://stackoverflow.com/questions/72786737/gradient-descent-reassignment-in-pytorch/72787055#72787055)
-- [Answer by Francisco Maria Calisto for Is there a way to store values in cornerstoneTool?](https://stackoverflow.com/questions/70391766/is-there-a-way-to-store-values-in-cornerstonetool/72704446#72704446)
-- [Answer by Francisco Maria Calisto for Javascript cornerstone JS error: apiTool is not a constructor](https://stackoverflow.com/questions/71123382/javascript-cornerstone-js-error-apitool-is-not-a-constructor/72700021#72700021)
-<!-- STACKOVERFLOW:END -->
 
 ### [![Dev.to](https://img.shields.io/badge/-Dev.to-ffffff?style=for-the-badge&logo=dev.to&logoColor=0A0A0A)](https://dev.to/FMCalisto)
 
@@ -69,11 +60,6 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
 
 <!-- MEDIUM:START -->
 <!-- MEDIUM:END -->
-
-### [![Reddit](https://img.shields.io/badge/-Reddit-ffffff?style=for-the-badge&logo=reddit&logoColor=black)]([https://medium.com/@fmcalisto](https://www.reddit.com/user/FMCalisto))
-
-<!-- REDDIT:START -->
-<!-- REDDIT:END -->
 
 ### [![Tumblr](https://img.shields.io/badge/-Tumblr-ffffff?style=for-the-badge&logo=tumblr&logoColor=black)](https://fmcalisto.tumblr.com)
 
@@ -146,6 +132,22 @@ Most functions of the **R** language are *vectorized*, meaning that [the functio
 
 -->
 
+## &#x272D; Helping Others
+
+TODO...
+
+### StackOverflow Activity
+
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
+
 ### &#x272D; Total Contributions and Streaks
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FMCalisto"/>
+
+## &#x270d; Discussions
+
+### [![Reddit](https://img.shields.io/badge/-Reddit-ffffff?style=for-the-badge&logo=reddit&logoColor=black)]([https://medium.com/@fmcalisto](https://www.reddit.com/user/FMCalisto))
+
+<!-- REDDIT:START -->
+<!-- REDDIT:END -->
