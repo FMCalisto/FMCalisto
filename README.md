@@ -55,7 +55,7 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
 <!-- DEVTO:START -->
 <!-- DEVTO:END -->
 
-### [![Hashnode](https://img.shields.io/badge/-Hashnode-ffffff?style=for-the-badge&logo=dev.to&logoColor=0A0A0A)](https://dev.to/FMCalisto)
+### [![Hashnode](https://img.shields.io/badge/-Hashnode-ffffff?style=for-the-badge&logo=hashnode&logoColor=0A0A0A)]([https://dev.to/FMCalisto](https://fmcalisto.hashnode.dev/))
 
 <!-- HASHNODE:START -->
 <!-- HASHNODE:END -->
