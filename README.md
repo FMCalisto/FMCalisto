@@ -1,8 +1,10 @@
-### &#x270C; Synopsis
+<meta http-equiv="refresh" content="0; url='https://fmcalisto.github.io/'" />
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FMCalisto)
 [![GitLab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/FMCalisto)
 [![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/FCalisto/)
+
+### &#x270C; Synopsis
 
 [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/fmcalisto)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNtLUA729o8o5XGiC7iTFxQ)
