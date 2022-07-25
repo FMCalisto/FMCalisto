@@ -27,11 +27,11 @@ Francisco Maria Calisto is a Human-Computer Interaction (HCI) and Health Informa
   <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=FMCalisto&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Francisco's GitHub Stats" />
 </a>
 
-## &#x272D; Helping Others
+## &#x1F64C; Helping Others
 
 TODO...
 
-### StackOverflow Activity
+### &#x1F440; StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
 - [Answer by Francisco Maria Calisto for How to use cornerstonejs to display the CT image by VUE3?](https://stackoverflow.com/questions/72824006/how-to-use-cornerstonejs-to-display-the-ct-image-by-vue3/72830534#72830534)
@@ -149,7 +149,7 @@ https://fmcalisto.hashnode.dev/)
 
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@FMCalisto)
 
-## Social Media
+## &#x1F44B; Social Media
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FMCalisto)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fmcalisto/)
@@ -174,7 +174,7 @@ https://fmcalisto.hashnode.dev/)
 
 [![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/FMCalisto)
 
-## Channels
+## &#x1F4AC; Channels
 
 [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/fmcalisto)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNtLUA729o8o5XGiC7iTFxQ)
