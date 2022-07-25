@@ -107,15 +107,6 @@ https://fmcalisto.hashnode.dev/)
 [![TikTok Badge](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@fmcalisto)
 
 <!-- TUMBLR:START -->
-- [Nine weeks later of hard work, the Lab2Market@Técnico2022...](https://fmcalisto.tumblr.com/post/687888369995350016)
-- [StartHealth@ULisboa &lpar;at Universidade de...](https://fmcalisto.tumblr.com/post/669634137244712960)
-- [From lab to the market, trying to bring science to business. A...](https://fmcalisto.tumblr.com/post/667017667925934080)
-- [Sevilla last weekend of August, 2021.
-
-#Sevilla #Seville #Spain...](https://fmcalisto.tumblr.com/post/661420925530636288)
-- [Summer 2021
-
-#ParqueDomCarlosI #CaldasDaRainha #Portugal #Europe...](https://fmcalisto.tumblr.com/post/659879969923743744)
 <!-- TUMBLR:END -->
 
 [![Tumblr](https://img.shields.io/badge/Tumblr-%2336465D.svg?style=for-the-badge&logo=Tumblr&logoColor=white)](https://fmcalisto.tumblr.com)
