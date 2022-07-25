@@ -56,52 +56,6 @@ Contributing to the open source community can be challenging and sometimes terri
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MIMBCD-UI&repo=dataset-uta4-classifications)](https://github.com/MIMBCD-UI/dataset-uta4-classifications)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MIMBCD-UI&repo=dataset-uta7-annotations)](https://github.com/MIMBCD-UI/dataset-uta7-annotations)
 
-## &#x1f4ca; Time Spent Coding
-
-[![wakatime](https://wakatime.com/badge/user/5585b7b2-927c-4a2f-9964-8277bf5cf592.svg?style=for-the-badge)](https://wakatime.com/@5585b7b2-927c-4a2f-9964-8277bf5cf592)
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=FMCalisto&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-
-## &#x1f4c9; CodersRank Stats
-
-<img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=FMCalisto&skills=Apex,C,C++,CSS,HTML,JSON,Java,JavaScript,Less,MATLAB,Makefile,PHP,Python,SCSS,Shell&show-other-skills=true"
-/>
-
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=FMCalisto&labels=true"
-/>
-
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=FMCalisto&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
-
-## &#x267E; Research
-
-As researcher, [Google Scholar](https://scholar.google.com/citations?user=KI0G_SUAAAAJ) is the most representative platform for my current publications. However, it could be interesting to follow my [ResearchGate](https://www.researchgate.net/profile/Francisco-Maria-Calisto) account. You can also find me on [Publons](https://publons.com/researcher/2053485/francisco-maria-calisto/), where the [ResearcherID](https://publons.com/researcher/O-7933-2017/) for my [Web of Science](https://www.webofscience.com/wos/alldb/summary/064b8532-c2bd-49da-ae17-064d3e0fd14d-40505616/relevance/1) account is following the [`O-7933-2017`](https://publons.com/researcher/O-7933-2017/) reference code. Finally, my [ORCID](https://orcid.org/0000-0001-8179-7872) is represented by the [`0000-0001-8179-7872`](https://orcid.org/0000-0001-8179-7872) reference number.
-
-List of research repositories:
-
-- [SIPG-ISR](http://sipg.isr.ist.utl.pt/) ([@sipg-isr](https://github.com/sipg-isr))
-
-- [MIMBCD-UI](https://mimbcd-ui.github.io/) ([@MIMBCD-UI](https://github.com/MIMBCD-UI))
-
-- [MIDA](https://mida-project.github.io/) ([@mida-project](https://github.com/mida-project))
-
-- [BreastScreening](https://BreastScreening.github.io/) ([@BreastScreening](https://github.com/BreastScreening))
-
-<!--
-
-Unlike **Python**, the **R** language was developed exclusively to analyze data and to develop solutions and applications that are able to execute statistical analyses and data mining [1]. It is a complete ecosystem for data analysis, with an incredible variety of libraries and packages available.
-
-Most functions of the **R** language are *vectorized*, meaning that [the function will operate on all elements of a vector without needing to loop through and act on each element once at a time][101]. This makes programming more concise, easy to read, and less error-prone. On the contrary, we need to use [NumPy][102] arrays (*i.e.*, the so called [`np.array()`][103] methods) to have vectorized operations in **Python** [2], so that we can better achieve an optimized solution.
-
-**2.** Why does the results show an average difference of time complexity and performance?
-
-**3.** How does Python and R scales out to parallel processing in terms of complexity and performance?
-
--->
-
 ## &#x270d; Blog & Writing
 
 Apart from being an Open Source'rer, I also write on [Medium](https://medium.com/@FMCalisto) and [DEV.to](https://dev.to/fmcalisto) platforms. Please, be free to follow my work there. Hope to help you!
@@ -149,6 +103,13 @@ https://fmcalisto.hashnode.dev/)
 
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@FMCalisto)
 
+## &#x1f4ca; Time Spent Coding
+
+[![wakatime](https://wakatime.com/badge/user/5585b7b2-927c-4a2f-9964-8277bf5cf592.svg?style=for-the-badge)](https://wakatime.com/@5585b7b2-927c-4a2f-9964-8277bf5cf592)
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=FMCalisto&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+
+
 ## &#x1F44B; Social Media
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FMCalisto)
@@ -161,6 +122,46 @@ https://fmcalisto.hashnode.dev/)
 <!-- TUMBLR:END -->
 
 [![Tumblr](https://img.shields.io/badge/Tumblr-%2336465D.svg?style=for-the-badge&logo=Tumblr&logoColor=white)](https://fmcalisto.tumblr.com)
+
+## &#x1f4c9; CodersRank Stats
+
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=FMCalisto&skills=Apex,C,C++,CSS,HTML,JSON,Java,JavaScript,Less,MATLAB,Makefile,PHP,Python,SCSS,Shell&show-other-skills=true"
+/>
+
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=FMCalisto&labels=true"
+/>
+
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=FMCalisto&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
+
+## &#x267E; Research
+
+As researcher, [Google Scholar](https://scholar.google.com/citations?user=KI0G_SUAAAAJ) is the most representative platform for my current publications. However, it could be interesting to follow my [ResearchGate](https://www.researchgate.net/profile/Francisco-Maria-Calisto) account. You can also find me on [Publons](https://publons.com/researcher/2053485/francisco-maria-calisto/), where the [ResearcherID](https://publons.com/researcher/O-7933-2017/) for my [Web of Science](https://www.webofscience.com/wos/alldb/summary/064b8532-c2bd-49da-ae17-064d3e0fd14d-40505616/relevance/1) account is following the [`O-7933-2017`](https://publons.com/researcher/O-7933-2017/) reference code. Finally, my [ORCID](https://orcid.org/0000-0001-8179-7872) is represented by the [`0000-0001-8179-7872`](https://orcid.org/0000-0001-8179-7872) reference number.
+
+List of research repositories:
+
+- [SIPG-ISR](http://sipg.isr.ist.utl.pt/) ([@sipg-isr](https://github.com/sipg-isr))
+
+- [MIMBCD-UI](https://mimbcd-ui.github.io/) ([@MIMBCD-UI](https://github.com/MIMBCD-UI))
+
+- [MIDA](https://mida-project.github.io/) ([@mida-project](https://github.com/mida-project))
+
+- [BreastScreening](https://BreastScreening.github.io/) ([@BreastScreening](https://github.com/BreastScreening))
+
+<!--
+
+Unlike **Python**, the **R** language was developed exclusively to analyze data and to develop solutions and applications that are able to execute statistical analyses and data mining [1]. It is a complete ecosystem for data analysis, with an incredible variety of libraries and packages available.
+
+Most functions of the **R** language are *vectorized*, meaning that [the function will operate on all elements of a vector without needing to loop through and act on each element once at a time][101]. This makes programming more concise, easy to read, and less error-prone. On the contrary, we need to use [NumPy][102] arrays (*i.e.*, the so called [`np.array()`][103] methods) to have vectorized operations in **Python** [2], so that we can better achieve an optimized solution.
+
+**2.** Why does the results show an average difference of time complexity and performance?
+
+**3.** How does Python and R scales out to parallel processing in terms of complexity and performance?
+
+-->
 
 ## &#x270d; Discussions
 
