@@ -29,7 +29,7 @@ Francisco Maria Calisto is a Human-Computer Interaction (HCI) and Health Informa
 
 ## &#x1F64C; Helping Others
 
-TODO...
+Contributing to the open source community can be challenging and sometimes terrifying. One particular challenge is how to expose your problem in a clear way. There are a plenty of [online articles](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/) explaining how to contribute and support the open source community. However, the best way for that, is to understand how could we help the community by giving some examples of Questions & Answers. Next, there are several o my recent examples of helping others through this path.
 
 ### &#x1F440; StackOverflow Activity
 
