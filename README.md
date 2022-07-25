@@ -27,6 +27,7 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
 ### Recent Blog Posts
 
 <!-- BLOG:START -->
+- [Resuming the resume: Who am I?](https://fmcalisto.blogspot.com/2022/07/resuming-resume-who-am-i.html)
 <!-- BLOG:END -->
 
 [![Blogger Badge](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://fmcalisto.blogspot.com/)
