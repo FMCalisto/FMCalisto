@@ -176,8 +176,6 @@ TODO...
 
 ## &#x270d; Discussions
 
-### [![Reddit](https://img.shields.io/badge/-Reddit-ffffff?style=for-the-badge&logo=reddit&logoColor=black)]([https://medium.com/@fmcalisto](https://www.reddit.com/user/FMCalisto))
-
 <!-- REDDIT:START -->
 - [/u/FMCalisto on Complex Loop Optimization](https://www.reddit.com/r/lisp/comments/w3j4hj/complex_loop_optimization/igwnuvs/)
 - [Complex Loop Optimization](https://www.reddit.com/r/lisp/comments/w3j4hj/complex_loop_optimization/)
