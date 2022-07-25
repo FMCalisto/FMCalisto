@@ -16,10 +16,6 @@ Francisco Maria Calisto is a Human-Computer Interaction (HCI) and Health Informa
 
 &#x27A4; [Paypal](https://www.paypal.me/oppr?utm_source=github)
 
-## &#x270d; Blog & Writing
-
-Apart from being an Open Source'rer, I also write on [Medium](https://medium.com/@FMCalisto) and [DEV.to](https://dev.to/fmcalisto) platforms. Please, be free to follow my work there. Hope to help you!
-
 ## &#x1f4c8; GitHub Stats
 
 ![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=FMCalisto)
@@ -105,6 +101,10 @@ Most functions of the **R** language are *vectorized*, meaning that [the functio
 **3.** How does Python and R scales out to parallel processing in terms of complexity and performance?
 
 -->
+
+## &#x270d; Blog & Writing
+
+Apart from being an Open Source'rer, I also write on [Medium](https://medium.com/@FMCalisto) and [DEV.to](https://dev.to/fmcalisto) platforms. Please, be free to follow my work there. Hope to help you!
 
 ### Recent Blog Posts
 
