@@ -4,11 +4,7 @@
 [![GitLab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/FMCalisto)
 [![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/FCalisto/)
 
-### &#x270C; Synopsis
-
-[![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/fmcalisto)
-[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNtLUA729o8o5XGiC7iTFxQ)
-[![Mastodon Follow](https://img.shields.io/mastodon/follow/888781?style=for-the-badge)](https://mastodon.social/@FMCalisto)
+## &#x270C; Synopsis
 
 Francisco Maria Calisto is a Human-Computer Interaction (HCI) and Health Informatics (HI) enthusiast. He holds a Bachelor of Engineering degree in Computer Science and Engineering, as well as a Master of Engineering in Information Systems and Computer Engineering at [Instituto Superior Técnico (IST)](https://tecnico.ulisboa.pt/). Qualified and experienced at working as a Researcher & Software Engineer, his work is settled in several directions. He is a system design thinker who is passionate about exploring how new interactive ideas, technologies, and business models can address the most pressing problems, particularly in healthcare. Francisco has been working with several Associated Laboratories of IST since 2015. Between 2015 and 2017, Francisco was working at [INESC-ID](https://www.inesc-id.pt) and, since then, he is working at [ISR-Lisboa](https://welcome.isr.tecnico.ulisboa.pt) in collaboration with [ITI](https://iti.larsys.pt). Both [ISR-Lisboa](https://welcome.isr.tecnico.ulisboa.pt) and [ITI](https://iti.larsys.pt) are associate laboratories of [LARSyS](https://larsys.pt/), currently being the host laboratories for his Doctoral Program. Researching & Developing (R&D) in areas such as HCI, User-Centered Design (UCD), Information Visualization (InfoVis), and HI, understanding and reducing the user burdens of interactive technologies for health professionals, patients, and people with disabilities through the design of future applications. Also lecturing on those areas during this path. Prior to IST, he was part of several [Entrepreneurship](http://fmcalisto.github.io/#entrepreneur) projects, from Agriculture to Advertisement, building systems for both business areas. He has designed, developed, and evaluated mobile, sensor, and collaborative applications for helping users (*e.g.*, physicians, patients, and so on). His primary research methods involve UCD, InfoVis, technology development, as well as a mix of qualitative and quantitative methods.
 
@@ -177,3 +173,9 @@ TODO...
 <!-- REDDIT:END -->
 
 [![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/FMCalisto)
+
+## Channels
+
+[![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/fmcalisto)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNtLUA729o8o5XGiC7iTFxQ)
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/888781?style=for-the-badge)](https://mastodon.social/@FMCalisto)
