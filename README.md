@@ -107,8 +107,8 @@ https://fmcalisto.hashnode.dev/)
 
 [![wakatime](https://wakatime.com/badge/user/5585b7b2-927c-4a2f-9964-8277bf5cf592.svg?style=for-the-badge)](https://wakatime.com/@5585b7b2-927c-4a2f-9964-8277bf5cf592)
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=FMCalisto&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## &#x1F44B; Social Media
 
