@@ -4,12 +4,6 @@
 [![GitLab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/FMCalisto)
 [![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/FCalisto/)
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FMCalisto)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fmcalisto/)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fmcalisto/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/FMCalisto/)
-[![TikTok Badge](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@fmcalisto)
-
 [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/fmcalisto)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNtLUA729o8o5XGiC7iTFxQ)
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/888781?style=for-the-badge)](https://mastodon.social/@FMCalisto)
@@ -62,8 +56,6 @@ https://fmcalisto.hashnode.dev/)
 <!-- FCC:START -->
 <!-- FCC:END -->
 
-### [![Medium](https://img.shields.io/badge/-Medium-ffffff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@fmcalisto)
-
 <!-- MEDIUM:START -->
 - [Medical Imaging Downloader for CornerstoneJS and Orthanc](https://medium.com/oppr/medical-imaging-downloader-for-cornerstonejs-and-orthanc-d08c3a508d9b?source=rss-78163c945086------2)
 - [Using CornerstoneJS and Orthanc to Support Deep Learning Projects](https://medium.com/oppr/using-cornerstonejs-and-orthanc-to-support-deep-learning-projects-c9675819c33a?source=rss-78163c945086------2)
@@ -71,20 +63,6 @@ https://fmcalisto.hashnode.dev/)
 <!-- MEDIUM:END -->
 
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@FMCalisto)
-
-### [![Tumblr](https://img.shields.io/badge/-Tumblr-ffffff?style=for-the-badge&logo=tumblr&logoColor=black)](https://fmcalisto.tumblr.com)
-
-<!-- TUMBLR:START -->
-- [Nine weeks later of hard work, the Lab2Market@Técnico2022...](https://fmcalisto.tumblr.com/post/687888369995350016)
-- [StartHealth@ULisboa &lpar;at Universidade de...](https://fmcalisto.tumblr.com/post/669634137244712960)
-- [From lab to the market, trying to bring science to business. A...](https://fmcalisto.tumblr.com/post/667017667925934080)
-- [Sevilla last weekend of August, 2021.
-
-#Sevilla #Seville #Spain...](https://fmcalisto.tumblr.com/post/661420925530636288)
-- [Summer 2021
-
-#ParqueDomCarlosI #CaldasDaRainha #Portugal #Europe...](https://fmcalisto.tumblr.com/post/659879969923743744)
-<!-- TUMBLR:END -->
 
 ## &#x1f4c8; GitHub Stats
 
@@ -116,6 +94,19 @@ https://fmcalisto.hashnode.dev/)
 <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=FMCalisto&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
 />
+
+## Social Media
+
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FMCalisto)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fmcalisto/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fmcalisto/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/FMCalisto/)
+[![TikTok Badge](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@fmcalisto)
+
+<!-- TUMBLR:START -->
+<!-- TUMBLR:END -->
+
+[![Tumblr](https://img.shields.io/badge/Tumblr-%2336465D.svg?style=for-the-badge&logo=Tumblr&logoColor=white)](https://fmcalisto.tumblr.com)
 
 ## &#x2692; Contributed Repositories
 
