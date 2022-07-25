@@ -27,26 +27,6 @@ Francisco Maria Calisto is a Human-Computer Interaction (HCI) and Health Informa
   <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=FMCalisto&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Francisco's GitHub Stats" />
 </a>
 
-## &#x1f4ca; Time Spent Coding
-
-[![wakatime](https://wakatime.com/badge/user/5585b7b2-927c-4a2f-9964-8277bf5cf592.svg?style=for-the-badge)](https://wakatime.com/@5585b7b2-927c-4a2f-9964-8277bf5cf592)
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=FMCalisto&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-
-## &#x1f4c9; CodersRank Stats
-
-<img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=FMCalisto&skills=Apex,C,C++,CSS,HTML,JSON,Java,JavaScript,Less,MATLAB,Makefile,PHP,Python,SCSS,Shell&show-other-skills=true"
-/>
-
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=FMCalisto&labels=true"
-/>
-
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=FMCalisto&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
-
 ## &#x272D; Helping Others
 
 TODO...
@@ -75,6 +55,26 @@ TODO...
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MIMBCD-UI&repo=dataset-uta7-dicom)](https://github.com/MIMBCD-UI/dataset-uta7-dicom)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MIMBCD-UI&repo=dataset-uta4-classifications)](https://github.com/MIMBCD-UI/dataset-uta4-classifications)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MIMBCD-UI&repo=dataset-uta7-annotations)](https://github.com/MIMBCD-UI/dataset-uta7-annotations)
+
+## &#x1f4ca; Time Spent Coding
+
+[![wakatime](https://wakatime.com/badge/user/5585b7b2-927c-4a2f-9964-8277bf5cf592.svg?style=for-the-badge)](https://wakatime.com/@5585b7b2-927c-4a2f-9964-8277bf5cf592)
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=FMCalisto&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+
+## &#x1f4c9; CodersRank Stats
+
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=FMCalisto&skills=Apex,C,C++,CSS,HTML,JSON,Java,JavaScript,Less,MATLAB,Makefile,PHP,Python,SCSS,Shell&show-other-skills=true"
+/>
+
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=FMCalisto&labels=true"
+/>
+
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=FMCalisto&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
 
 ## &#x267E; Research
 
