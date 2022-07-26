@@ -16,6 +16,20 @@ Francisco Maria Calisto is a Human-Computer Interaction (HCI) and Health Informa
 
 &#x27A4; [Paypal](https://www.paypal.me/oppr?utm_source=github)
 
+
+## &#x1F44B; Social Media
+
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FMCalisto)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fmcalisto/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fmcalisto/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/FMCalisto/)
+[![TikTok Badge](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@fmcalisto)
+
+<!-- TUMBLR:START -->
+<!-- TUMBLR:END -->
+
+[![Tumblr](https://img.shields.io/badge/Tumblr-%2336465D.svg?style=for-the-badge&logo=Tumblr&logoColor=white)](https://fmcalisto.tumblr.com)
+
 ## &#x1f4c8; GitHub Stats
 
 ![visitors](https://visitor-badge.glitch.me/badge?style=for-the-badge&page_id=FMCalisto)
@@ -109,24 +123,6 @@ https://fmcalisto.hashnode.dev/)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-## &#x1F44B; Social Media
-
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FMCalisto)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fmcalisto/)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fmcalisto/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/FMCalisto/)
-[![TikTok Badge](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@fmcalisto)
-
-<!-- TUMBLR:START -->
-- [Resuming the resume: Who am I?](https://fmcalisto.tumblr.com/post/690766473824714752)
-- [Nine weeks later of hard work, the Lab2Market@Técnico2022...](https://fmcalisto.tumblr.com/post/687888369995350016)
-- [StartHealth@ULisboa &lpar;at Universidade de...](https://fmcalisto.tumblr.com/post/669634137244712960)
-- [From lab to the market, trying to bring science to business. A...](https://fmcalisto.tumblr.com/post/667017667925934080)
-- [Sevilla last weekend of August, 2021. For me, one of my...](https://fmcalisto.tumblr.com/post/661420925530636288)
-<!-- TUMBLR:END -->
-
-[![Tumblr](https://img.shields.io/badge/Tumblr-%2336465D.svg?style=for-the-badge&logo=Tumblr&logoColor=white)](https://fmcalisto.tumblr.com)
 
 ## &#x1f4c9; CodersRank Stats
 
