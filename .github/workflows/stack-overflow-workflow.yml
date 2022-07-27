@@ -1,7 +1,7 @@
 name: Latest stack overflow activity
 on:
   schedule:
-    # Runs every 5 minutes
+    # Runs every defined time
     - cron: '0 5 * * 3'
   workflow_dispatch:
   
