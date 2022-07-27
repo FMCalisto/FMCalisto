@@ -105,12 +105,10 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
 [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](
 https://fmcalisto.hashnode.dev/)
 
-### [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-ffffff?style=for-the-badge&logo=freecodecamp&logoColor=0A0A23)](https://www.freecodecamp.org/news/author/FMGFCalisto/)
-
 <!-- FCC:START -->
 <!-- FCC:END -->
 
-[![FreeCodeCamp]([https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green))](https://www.freecodecamp.org/FMGFCalisto)
+[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/FMGFCalisto)
 
 <!-- MEDIUM:START -->
 - [Medical Imaging Downloader for CornerstoneJS and Orthanc](https://medium.com/oppr/medical-imaging-downloader-for-cornerstonejs-and-orthanc-d08c3a508d9b?source=rss-78163c945086------2)
