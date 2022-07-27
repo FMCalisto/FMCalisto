@@ -87,8 +87,6 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
 
 [![Blogger Badge](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://fmcalisto.blogspot.com/)
 
-### [![Dev.to](https://img.shields.io/badge/-Dev.to-ffffff?style=for-the-badge&logo=dev.to&logoColor=0A0A0A)](https://dev.to/FMCalisto)
-
 <!-- DEVTO:START -->
 - [Finding the maximum integer value contained in a matrix using Java](https://dev.to/fmcalisto/finding-the-maximum-integer-value-contained-in-a-matrix-using-java-e6h)
 - [Efficiency of Multithreaded Loops](https://dev.to/fmcalisto/efficiency-of-multithreaded-loops-3fae)
@@ -98,8 +96,6 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
 <!-- DEVTO:END -->
 
 [![DEV Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/fmcalisto)
-
-### [![Hashnode](https://img.shields.io/badge/-Hashnode-ffffff?style=for-the-badge&logo=hashnode&logoColor=0A0A0A)]([https://dev.to/FMCalisto](https://fmcalisto.hashnode.dev/))
 
 <!-- HASHNODE:START -->
 - [How to have more than 250,000 contributions to GitHub in 10 years?](https://fmcalisto.hashnode.dev/how-to-have-more-than-250000-contributions-to-github-in-10-years)
@@ -113,6 +109,8 @@ https://fmcalisto.hashnode.dev/)
 
 <!-- FCC:START -->
 <!-- FCC:END -->
+
+[![FreeCodeCamp]([https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green))](https://www.freecodecamp.org/FMGFCalisto)
 
 <!-- MEDIUM:START -->
 - [Medical Imaging Downloader for CornerstoneJS and Orthanc](https://medium.com/oppr/medical-imaging-downloader-for-cornerstonejs-and-orthanc-d08c3a508d9b?source=rss-78163c945086------2)
