@@ -15,4 +15,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: FCC
-          feed_list: "https://www.freecodecamp.org/news/author/FMGFCalisto/rss"
+          feed_list: "https://www.freecodecamp.org/news/tag/startup/rss"
