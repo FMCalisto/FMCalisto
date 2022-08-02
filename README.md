@@ -46,6 +46,11 @@ Francisco Maria Calisto is a Human-Computer Interaction (HCI) and Health Informa
   <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=FMCalisto&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Francisco's GitHub Stats" />
 </a>
 
+### &#x26A1; Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## &#x1F64C; Helping Others
 
 Contributing to the open source community can be challenging and sometimes terrifying. One particular challenge is how to expose your problem in a clear way. There are a plenty of [online articles](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/) explaining how to contribute and support the open source community. However, the best way for that, is to understand how could we help the community by giving some examples of Questions & Answers. Next, there are several o my recent examples of helping others through this path.
