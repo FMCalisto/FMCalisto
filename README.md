@@ -195,3 +195,7 @@ Most functions of the **R** language are *vectorized*, meaning that [the functio
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
+
+Join me on Telegram:
+
+https://t.me/+Tzezd_P3trYwM2Rk
