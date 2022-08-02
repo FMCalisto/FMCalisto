@@ -189,7 +189,7 @@ Most functions of the **R** language are *vectorized*, meaning that [the functio
 
 For more discussions, join me on Telegram:
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+Tzezd_P3trYwM2Rk)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FMCalistoChannel)
 
 ## &#x1F4AC; Channels
 
