@@ -185,7 +185,11 @@ Most functions of the **R** language are *vectorized*, meaning that [the functio
 - [/u/FMCalisto on More than 270,000 contributions to GitHub](https://www.reddit.com/r/programming/comments/vh8xph/more_than_270000_contributions_to_github/id6306h/)
 <!-- REDDIT:END -->
 
-[![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/FMCalisto)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/FMCalisto)
+
+For more discussions, join me on Telegram:
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+Tzezd_P3trYwM2Rk)
 
 ## &#x1F4AC; Channels
 
@@ -195,7 +199,3 @@ Most functions of the **R** language are *vectorized*, meaning that [the functio
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
-
-Join me on Telegram:
-
-https://t.me/+Tzezd_P3trYwM2Rk
