@@ -187,10 +187,6 @@ Most functions of the **R** language are *vectorized*, meaning that [the functio
 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/FMCalisto)
 
-For more discussions, join me on Telegram:
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FMCalistoChannel)
-
 ## &#x1F4AC; Channels
 
 [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/fmcalisto)
@@ -199,3 +195,7 @@ For more discussions, join me on Telegram:
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
+
+Join me on Telegram:
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FMCalistoChannel)
