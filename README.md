@@ -58,11 +58,11 @@ Contributing to the open source community can be challenging and sometimes terri
 ### &#x1F440; StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Francisco Maria Calisto for Clear all annotations with cornerstone-tools](https://stackoverflow.com/questions/73074310/clear-all-annotations-with-cornerstone-tools/73204850#73204850)
 - [Answer by Francisco Maria Calisto for How to use cornerstonejs to display the CT image by VUE3?](https://stackoverflow.com/questions/72824006/how-to-use-cornerstonejs-to-display-the-ct-image-by-vue3/72830534#72830534)
 - [How to convert duration of MM:SS to seconds in Google Sheets?](https://stackoverflow.com/questions/72820665/how-to-convert-duration-of-mmss-to-seconds-in-google-sheets)
 - [Answer by Francisco Maria Calisto for Gradient Descent Reassignment in Pytorch](https://stackoverflow.com/questions/72786737/gradient-descent-reassignment-in-pytorch/72787055#72787055)
 - [Answer by Francisco Maria Calisto for Is there a way to store values in cornerstoneTool?](https://stackoverflow.com/questions/70391766/is-there-a-way-to-store-values-in-cornerstonetool/72704446#72704446)
-- [Answer by Francisco Maria Calisto for Javascript cornerstone JS error: apiTool is not a constructor](https://stackoverflow.com/questions/71123382/javascript-cornerstone-js-error-apitool-is-not-a-constructor/72700021#72700021)
 <!-- STACKOVERFLOW:END -->
 
 [![StackOverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2371987/francisco-maria-calisto)
