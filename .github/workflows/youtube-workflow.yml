@@ -16,5 +16,5 @@ jobs:
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCNtLUA729o8o5XGiC7iTFxQ"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
-          template: '<table><tr><td><a href="$url"><img width="100%" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
+          template: '<table style="width:100%"><tr><td><a href="$url"><img width="100%" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
           committer_email: "francisco.mcalisto@gmail.com"
