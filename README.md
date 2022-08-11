@@ -179,11 +179,11 @@ Most functions of the **R** language are *vectorized*, meaning that [the functio
 ## &#x270d; Discussions
 
 <!-- REDDIT:START -->
-- [/u/FMCalisto on Complex Loop Optimization](https://www.reddit.com/r/lisp/comments/w3j4hj/complex_loop_optimization/igwnuvs/)
-- [Complex Loop Optimization](https://www.reddit.com/r/lisp/comments/w3j4hj/complex_loop_optimization/)
-- [How to have more than 250,000 contributions to GitHub in 10 years?](https://www.reddit.com/r/u_FMCalisto/comments/vhm5fm/how_to_have_more_than_250000_contributions_to/)
-- [/u/FMCalisto on Is there such thing as doing too many commits?](https://www.reddit.com/r/git/comments/3afubp/is_there_such_thing_as_doing_too_many_commits/id7q3b8/)
-- [/u/FMCalisto on More than 270,000 contributions to GitHub](https://www.reddit.com/r/programming/comments/vh8xph/more_than_270000_contributions_to_github/id6306h/)
+- [Researching](https://www.reddit.com/r/u_FMCalisto/comments/wl3pqw/researching/)
+- [Modeling Adoption of Intelligent Agents in Medical Imaging](https://www.reddit.com/r/u_FMCalisto/comments/wkv8oz/modeling_adoption_of_intelligent_agents_in/)
+- [/u/FMCalisto on Modeling Adoption of Intelligent Agents in Medical Imaging](https://www.reddit.com/r/radiologyAI/comments/wkv54o/modeling_adoption_of_intelligent_agents_in/ijpff2f/)
+- [Modeling Adoption of Intelligent Agents in Medical Imaging](https://www.reddit.com/r/radiologyAI/comments/wkv54o/modeling_adoption_of_intelligent_agents_in/)
+- [Radiology-AI Software Developer &amp; Real World Clinical Deployment of AI for Kidney Cyst Segmentation &lpar;42 mins&rpar;](https://www.reddit.com/r/u_FMCalisto/comments/wkv3p2/radiologyai_software_developer_real_world/)
 <!-- REDDIT:END -->
 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/FMCalisto)
