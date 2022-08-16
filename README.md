@@ -1,5 +1,8 @@
 <meta http-equiv="refresh" content="0; url='https://fmcalisto.github.io/'" />
 
+<!-- replace x.x.x with actual version -->
+<script src="https://unpkg.com/@codersrank/activity@x.x.x/codersrank-activity.min.js"></script>
+
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FMCalisto)
 [![GitLab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/FMCalisto)
 [![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/FCalisto/)
@@ -146,6 +149,10 @@ https://fmcalisto.hashnode.dev/)
 
 <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=FMCalisto&labels=true"
+/>
+
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=YOUR_USERNAME&labels=true"
 />
 
 <img
