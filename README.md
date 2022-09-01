@@ -181,11 +181,11 @@ Most functions of the **R** language are *vectorized*, meaning that [the functio
 ## &#x270d; Discussions
 
 <!-- REDDIT:START -->
+- [CMU Visiting Researcher](https://www.reddit.com/r/cmu/comments/wxadky/cmu_visiting_researcher/)
+- [CMU Visiting Researcher](https://www.reddit.com/r/pittsburgh/comments/wxaaub/cmu_visiting_researcher/)
 - [Researching](https://www.reddit.com/r/u_FMCalisto/comments/wl3pqw/researching/)
 - [Modeling Adoption of Intelligent Agents in Medical Imaging](https://www.reddit.com/r/u_FMCalisto/comments/wkv8oz/modeling_adoption_of_intelligent_agents_in/)
 - [/u/FMCalisto on Modeling Adoption of Intelligent Agents in Medical Imaging](https://www.reddit.com/r/radiologyAI/comments/wkv54o/modeling_adoption_of_intelligent_agents_in/ijpff2f/)
-- [Modeling Adoption of Intelligent Agents in Medical Imaging](https://www.reddit.com/r/radiologyAI/comments/wkv54o/modeling_adoption_of_intelligent_agents_in/)
-- [Radiology-AI Software Developer &amp; Real World Clinical Deployment of AI for Kidney Cyst Segmentation &lpar;42 mins&rpar;](https://www.reddit.com/r/u_FMCalisto/comments/wkv3p2/radiologyai_software_developer_real_world/)
 <!-- REDDIT:END -->
 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/FMCalisto)
