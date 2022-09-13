@@ -28,13 +28,13 @@ Francisco Maria Calisto is a Human-Computer Interaction (HCI) and Health Informa
 [![TikTok Badge](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@fmcalisto)
 
 <!-- TUMBLR:START -->
+- [The first few weeks at Pittsburgh are going well. I just met...](https://fmcalisto.tumblr.com/post/695237555244990464)
 - [Welcome to the Niagara Falls!
 
 #Travel #Canada #NiagaraFalls...](https://fmcalisto.tumblr.com/post/694516944133636096)
 - [Buffalo city from a first perspective. At the head of the...](https://fmcalisto.tumblr.com/post/694425400223367168)
 - [The nostalgic feeling of arriving here for the first time....](https://fmcalisto.tumblr.com/post/694321021474455552)
 - [How to avoid the bandwagon effect on users?](https://fmcalisto.tumblr.com/post/691464323691905024)
-- [Resuming the resume: Who am I?](https://fmcalisto.tumblr.com/post/690766473824714752)
 <!-- TUMBLR:END -->
 
 [![Tumblr](https://img.shields.io/badge/Tumblr-%2336465D.svg?style=for-the-badge&logo=Tumblr&logoColor=white)](https://fmcalisto.tumblr.com)
