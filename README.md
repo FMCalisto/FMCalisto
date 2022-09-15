@@ -180,11 +180,11 @@ Most functions of the **R** language are *vectorized*, meaning that [the functio
 ## &#x270d; Discussions
 
 <!-- REDDIT:START -->
+- [/u/FMCalisto on how do i get in to CMU as an international student can someone guide me?](https://www.reddit.com/r/CarnegieMellon/comments/xdhncx/how_do_i_get_in_to_cmu_as_an_international/iobhjkx/)
 - [Modeling Adoption of Intelligent Agents in Medical Imaging](https://www.reddit.com/r/medicalschool/comments/x3mosd/modeling_adoption_of_intelligent_agents_in/)
 - [Modeling Adoption of Intelligent Agents in Medical Imaging](https://www.reddit.com/r/cmu/comments/x3mo8n/modeling_adoption_of_intelligent_agents_in/)
 - [Modeling Adoption of Intelligent Agents in Medical Imaging](https://www.reddit.com/r/research/comments/x3mny6/modeling_adoption_of_intelligent_agents_in/)
 - [Modeling Adoption of Intelligent Agents in Medical Imaging](https://www.reddit.com/r/radiologyAI/comments/x3mnki/modeling_adoption_of_intelligent_agents_in/)
-- [Modeling Adoption of Intelligent Agents in Medical Imaging](https://www.reddit.com/r/Radiology/comments/x3mn68/modeling_adoption_of_intelligent_agents_in/)
 <!-- REDDIT:END -->
 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/FMCalisto)
