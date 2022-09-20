@@ -28,10 +28,13 @@ Francisco Maria Calisto is a Human-Computer Interaction (HCI) and Health Informa
 [![TikTok Badge](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@fmcalisto)
 
 <!-- TUMBLR:START -->
+- [What an excellent presentation from Prof. Chau at CMU, organized...](https://fmcalisto.tumblr.com/post/695849635878699008)
+- [First weekend visiting Pittsburgh, a sunny day is a good option...](https://fmcalisto.tumblr.com/post/695784120879595520)
+- [Andy Warhol was born and raised in Pittsburgh. He was an...](https://fmcalisto.tumblr.com/post/695687123700973568)
 - [The first few weeks at Pittsburgh are going well. I just met...](https://fmcalisto.tumblr.com/post/695237555244990464)
-- [Buffalo city from a first perspective. At the head of the...](https://fmcalisto.tumblr.com/post/694425400223367168)
-- [The nostalgic feeling of arriving here for the first time....](https://fmcalisto.tumblr.com/post/694321021474455552)
-- [How to avoid the bandwagon effect on users?](https://fmcalisto.tumblr.com/post/691464323691905024)
+- [Welcome to the Niagara Falls!
+
+#Travel #Canada #NiagaraFalls...](https://fmcalisto.tumblr.com/post/694516944133636096)
 <!-- TUMBLR:END -->
 
 [![Tumblr](https://img.shields.io/badge/Tumblr-%2336465D.svg?style=for-the-badge&logo=Tumblr&logoColor=white)](https://fmcalisto.tumblr.com)
