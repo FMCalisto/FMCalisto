@@ -183,11 +183,11 @@ Most functions of the **R** language are *vectorized*, meaning that [the functio
 ## &#x270d; Discussions
 
 <!-- REDDIT:START -->
+- [Recruiting Participants For a Virtual Study on Language Acquisition!](https://www.reddit.com/r/u_FMCalisto/comments/xie9kw/recruiting_participants_for_a_virtual_study_on/)
+- [Still Recruiting Participants For Virtual Study on Language Acquisition!](https://www.reddit.com/r/u_FMCalisto/comments/xie94f/still_recruiting_participants_for_virtual_study/)
+- [/u/FMCalisto on On this date-Scott Fahlman comes up with emojis or smileys to represent emotions, on a Carnegie Mellon University board in 1982. That apart he has done some excellent work in neural networks, LISP programming.](https://www.reddit.com/r/CarnegieMellon/comments/xi199k/on_this_datescott_fahlman_comes_up_with_emojis_or/ip2jypk/)
 - [/u/FMCalisto on how do i get in to CMU as an international student can someone guide me?](https://www.reddit.com/r/CarnegieMellon/comments/xdhncx/how_do_i_get_in_to_cmu_as_an_international/iobhjkx/)
 - [Modeling Adoption of Intelligent Agents in Medical Imaging](https://www.reddit.com/r/medicalschool/comments/x3mosd/modeling_adoption_of_intelligent_agents_in/)
-- [Modeling Adoption of Intelligent Agents in Medical Imaging](https://www.reddit.com/r/cmu/comments/x3mo8n/modeling_adoption_of_intelligent_agents_in/)
-- [Modeling Adoption of Intelligent Agents in Medical Imaging](https://www.reddit.com/r/research/comments/x3mny6/modeling_adoption_of_intelligent_agents_in/)
-- [Modeling Adoption of Intelligent Agents in Medical Imaging](https://www.reddit.com/r/radiologyAI/comments/x3mnki/modeling_adoption_of_intelligent_agents_in/)
 <!-- REDDIT:END -->
 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/FMCalisto)
