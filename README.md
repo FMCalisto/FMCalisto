@@ -51,7 +51,7 @@ Francisco Maria Calisto is a Human-Computer Interaction (HCI) and Health Informa
 ### &#x26A1; Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#203](https://github.com/didymo/OnkoDICOM/issues/203) in [didymo/OnkoDICOM](https://github.com/didymo/OnkoDICOM)
+1. 🎉 Merged PR [#124](https://github.com/MIMBCD-UI/prototype-breast-screening/pull/124) in [MIMBCD-UI/prototype-breast-screening](https://github.com/MIMBCD-UI/prototype-breast-screening)
 <!--END_SECTION:activity-->
 
 ## &#x1F64C; Helping Others
