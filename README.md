@@ -141,16 +141,12 @@ https://fmcalisto.hashnode.dev/)
 ## &#x1f4c9; CodersRank Stats
 
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=FMCalisto&skills=Apex,C,C++,CSS,HTML,JSON,Java,JavaScript,Less,MATLAB,Makefile,PHP,Python,SCSS,Shell&show-other-skills=true"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=FMCalisto&skills=Lisp,C,C++,CSS,HTML,JSON,Java,JavaScript,MATLAB,Makefile,PHP,Python,SCSS,Shell&show-other-skills=true"
 />
 
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=FMCalisto&labels=true"
-/>
+## TODO
 
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=FMCalisto&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
+![Metrics](https://metrics.lecoq.io/FMCalisto?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FNew_York)
 
 ## &#x267E; Research
 
