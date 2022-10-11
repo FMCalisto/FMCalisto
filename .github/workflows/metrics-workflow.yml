@@ -59,15 +59,6 @@ jobs:
           plugin_anilist_user: .user.login
           plugin_calendar: yes
           plugin_calendar_limit: 1
-          plugin_chess: yes
-          plugin_chess_animation: {
-  "size": 40,
-  "delay": 3,
-  "duration": 0.6
-}
-
-          plugin_chess_platform: lichess.org
-          plugin_chess_user: .user.login
           plugin_code: yes
           plugin_code_days: 3
           plugin_code_lines: 12
