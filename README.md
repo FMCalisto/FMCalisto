@@ -193,7 +193,7 @@ Most functions of the **R** language are *vectorized*, meaning that [the functio
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/888781?style=for-the-badge)](https://mastodon.social/@FMCalisto)
 
 <!-- BLOG-POST-LIST:START -->
-<table style="width:100%"><tr style="width:100%"><td><a href="https://www.youtube.com/watch?v=JwdhA7mHBO0"><img width="100%" src="https://i.ytimg.com/vi/JwdhA7mHBO0/mqdefault.jpg"></a></td>
+<table style="width:10%"><tr><td><a href="https://www.youtube.com/watch?v=JwdhA7mHBO0"><img width="100%" src="https://i.ytimg.com/vi/JwdhA7mHBO0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JwdhA7mHBO0">Medical Imaging Multimodality Annotating Framework</a><br/>Oct 14, 2020</td></tr></table>
 <table style="width:100%"><tr><td><a href="https://www.youtube.com/watch?v=ePUc_yQp_Ew"><img width="100%" src="https://i.ytimg.com/vi/ePUc_yQp_Ew/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ePUc_yQp_Ew">BreastScreening: On the Use of Multi-Modality in Medical Imaging Diagnosis</a><br/>Oct 8, 2020</td></tr></table>
