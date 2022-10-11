@@ -14,24 +14,11 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          # The following additional scopes may be required:
-          #  - read:org      (for organization related metrics)
-          #  - read:user     (for user related data)
-          #  - read:packages (for some packages related data)
-          #  - repo          (optional, if you want to include private repositories)
-          token: ${{ secrets.METRICS_TOKEN }}
+          # Current configuration doesn't require a GitHub token
+          token: NOT_NEEDED
 
           # Options
           user: FMCalisto
           template: classic
-          base: header, activity, community, repositories, metadata
-          base_hireable: yes
-          base_indepth: yes
-          base_skip: yes
-          config_octicon: yes
+          base: ""
           config_timezone: America/New_York
-          config_twemoji: yes
-          repositories_forks: yes
