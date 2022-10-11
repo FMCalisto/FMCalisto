@@ -20,5 +20,9 @@ jobs:
           # Options
           user: FMCalisto
           template: classic
-          base: ""
+          base: header, activity, community, repositories, metadata
+          base_hireable: yes
+          base_indepth: yes
+          base_skip: yes
           config_timezone: America/New_York
+          repositories_forks: yes
