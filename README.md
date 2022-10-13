@@ -177,11 +177,11 @@ Most functions of the **R** language are *vectorized*, meaning that [the functio
 ## &#x270d; Discussions
 
 <!-- REDDIT:START -->
-- [FMCalisto - Overview](https://www.reddit.com/r/github/comments/xrp9jm/fmcalisto_overview/)
-- [/u/FMCalisto on Have or know of a project on Github looking for contributors? Feel free to drop them down to add to the wiki page!](https://www.reddit.com/r/github/comments/c4kccq/have_or_know_of_a_project_on_github_looking_for/iqg3si4/)
-- [Recruiting Participants For a Virtual Study on Language Acquisition!](https://www.reddit.com/r/u_FMCalisto/comments/xie9kw/recruiting_participants_for_a_virtual_study_on/)
-- [Still Recruiting Participants For Virtual Study on Language Acquisition!](https://www.reddit.com/r/u_FMCalisto/comments/xie94f/still_recruiting_participants_for_virtual_study/)
-- [/u/FMCalisto on On this date-Scott Fahlman comes up with emojis or smileys to represent emotions, on a Carnegie Mellon University board in 1982. That apart he has done some excellent work in neural networks, LISP programming.](https://www.reddit.com/r/CarnegieMellon/comments/xi199k/on_this_datescott_fahlman_comes_up_with_emojis_or/ip2jypk/)
+- [Open Source Project about Artificial Intelligence for Breast Cancer Diagnosis](https://www.reddit.com/r/opensource/comments/xyb6tp/open_source_project_about_artificial_intelligence/)
+- [Study for the Adoption of AI in a Clinical Workflow: Modeling Adoption of Intelligent Agents in Medical Imaging](https://www.reddit.com/r/ArtificialInteligence/comments/xyaxa3/study_for_the_adoption_of_ai_in_a_clinical/)
+- [Artificial Intelligence Supporting Medical Diagnosis: Breast Cancer Statistics, 2022](https://www.reddit.com/r/ArtificialInteligence/comments/xyavm9/artificial_intelligence_supporting_medical/)
+- [Breast Cancer Statistics, 2022](https://www.reddit.com/r/Radiology/comments/xyau3w/breast_cancer_statistics_2022/)
+- [Breast Cancer Statistics, 2022](https://www.reddit.com/r/cancer/comments/xyasri/breast_cancer_statistics_2022/)
 <!-- REDDIT:END -->
 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/FMCalisto)
