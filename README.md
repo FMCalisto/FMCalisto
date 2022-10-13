@@ -51,7 +51,7 @@ Francisco Maria Calisto is a Human-Computer Interaction (HCI) and Health Informa
 ### &#x26A1; Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#124](https://github.com/MIMBCD-UI/prototype-breast-screening/pull/124) in [MIMBCD-UI/prototype-breast-screening](https://github.com/MIMBCD-UI/prototype-breast-screening)
+1. 🗣 Commented on [#3](https://github.com/mida-project/eye-tracker-setup/issues/3) in [mida-project/eye-tracker-setup](https://github.com/mida-project/eye-tracker-setup)
 <!--END_SECTION:activity-->
 
 ## &#x1F64C; Helping Others
