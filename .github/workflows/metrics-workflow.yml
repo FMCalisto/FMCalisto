@@ -2,7 +2,7 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "0 0 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -14,15 +14,18 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Current configuration doesn't require a GitHub token
-          token: NOT_NEEDED
+          # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          # The following additional scopes may be required:
+          #  - read:org      (for organization related metrics)
+          #  - read:user     (for user related data)
+          #  - read:packages (for some packages related data)
+          #  - repo          (optional, if you want to include private repositories)
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: FMCalisto
           template: classic
           base: header, activity, community, repositories, metadata
-          base_hireable: yes
-          base_indepth: yes
-          base_skip: yes
           config_timezone: America/New_York
-          repositories_forks: yes
