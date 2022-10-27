@@ -146,7 +146,7 @@ https://fmcalisto.hashnode.dev/)
 
 ## &#x1f525; Metrics
 
-![Metrics](https://metrics.lecoq.io/FMCalisto?template=classic&base.indepth=true&base.hireable=true&base.skip=true&repositories.forks=true&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=true)
+![Metrics](https://metrics.lecoq.io/FMCalisto?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FNew_York)
 
 ## &#x267E; Research
 
