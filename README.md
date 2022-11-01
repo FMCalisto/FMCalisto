@@ -28,11 +28,11 @@ Francisco Maria Calisto is a Human-Computer Interaction (HCI) and Health Informa
 [![TikTok Badge](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@fmcalisto)
 
 <!-- TUMBLR:START -->
+- [Today, I was invited to present my work for the...](https://fmcalisto.tumblr.com/post/699323188888387584)
 - [Well, what a great city! Although it’s cold, we can go through a...](https://fmcalisto.tumblr.com/post/697642724027924480)
 - [At @carnegiemellon, the @cmuhcii is one of the seven departments...](https://fmcalisto.tumblr.com/post/697316897962737664)
 - [The Hamerschlag Hall is a beautiful and iconic building here at...](https://fmcalisto.tumblr.com/post/697106396751249408)
 - [Although it’s already cold around here, the weather shows the...](https://fmcalisto.tumblr.com/post/696492622486913024)
-- [Having the Gates Hillman Center behind, walking through the...](https://fmcalisto.tumblr.com/post/696314972172697600)
 <!-- TUMBLR:END -->
 
 [![Tumblr](https://img.shields.io/badge/Tumblr-%2336465D.svg?style=for-the-badge&logo=Tumblr&logoColor=white)](https://fmcalisto.tumblr.com)
