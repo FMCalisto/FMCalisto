@@ -18,7 +18,6 @@ Francisco Maria Calisto is a Human-Computer Interaction (HCI) and Health Informa
 
 &#x27A4; [Paypal](https://www.paypal.me/oppr?utm_source=github)
 
-
 ## &#x1F44B; Social Media
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FMCalisto)
