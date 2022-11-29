@@ -27,11 +27,11 @@ Francisco Maria Calisto is a Human-Computer Interaction (HCI) and Health Informa
 [![TikTok Badge](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@fmcalisto)
 
 <!-- TUMBLR:START -->
-- [From the National Gallery of Art in Washington DC, there are a...](https://fmcalisto.tumblr.com/post/700865558498934784)
-- [The city made of bridges. Pittsburgh region has more than 400...](https://fmcalisto.tumblr.com/post/700092085368389632)
-- [Yesterday, we went to a great presentation by @moburst about...](https://fmcalisto.tumblr.com/post/699847340945752064)
-- [A day at the museum. Well, it was not completely, but this...](https://fmcalisto.tumblr.com/post/699770726037782528)
-- [Today, I was invited to present my work for the...](https://fmcalisto.tumblr.com/post/699323188888387584)
+- [Inside Google. What a great day having some meetings inside one...](https://fmcalisto.tumblr.com/post/701852694354214913)
+- [Inside the main building we have a great view. Just a small...](https://fmcalisto.tumblr.com/post/701777604215259136)
+- [New York, New York. From Times Square to the acting streets of...](https://fmcalisto.tumblr.com/post/701684466620530688)
+- [From yesterday, the city that never sleeps has a first...](https://fmcalisto.tumblr.com/post/701665359668887552)
+- [Memories from the last days in Washington DC. What a wonderful...](https://fmcalisto.tumblr.com/post/701593865282551808)
 <!-- TUMBLR:END -->
 
 [![Tumblr](https://img.shields.io/badge/Tumblr-%2336465D.svg?style=for-the-badge&logo=Tumblr&logoColor=white)](https://fmcalisto.tumblr.com)
