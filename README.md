@@ -96,11 +96,11 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
 [![Blogger Badge](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://fmcalisto.blogspot.com/)
 
 <!-- DEVTO:START -->
+- [Using Artificial Intelligence in Medical Imaging: A First Step Tutorial with Python Code Examples](https://dev.to/fmcalisto/using-artificial-intelligence-in-medical-imaging-a-first-step-tutorial-with-python-code-examples-4f6c)
 - [Finding the maximum integer value contained in a matrix using Java](https://dev.to/fmcalisto/finding-the-maximum-integer-value-contained-in-a-matrix-using-java-e6h)
 - [Efficiency of Multithreaded Loops](https://dev.to/fmcalisto/efficiency-of-multithreaded-loops-3fae)
 - [How to create a script to add, commit and push file by file a set of new or changed files?](https://dev.to/fmcalisto/how-to-create-a-script-to-add-commit-and-push-file-by-file-a-set-of-new-or-changed-files-3goa)
 - [Comparing R and Python Vectorization and Optimization](https://dev.to/fmcalisto/comparing-r-and-python-vectorization-and-optimization-n51)
-- [Answer: Reading CT Scan dicom file](https://dev.to/fmcalisto/answer-reading-ct-scan-dicom-file-377l)
 <!-- DEVTO:END -->
 
 [![DEV Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/fmcalisto)
