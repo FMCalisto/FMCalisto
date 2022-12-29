@@ -51,7 +51,7 @@ Francisco Maria Calisto is a Human-Computer Interaction (HCI) and Health Informa
 ### &#x26A1; Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#105](https://github.com/gayanvoice/top-github-users/issues/105) in [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users)
+1. 💪 Opened PR [#199](https://github.com/cmudig/cmudig.github.io/pull/199) in [cmudig/cmudig.github.io](https://github.com/cmudig/cmudig.github.io)
 <!--END_SECTION:activity-->
 
 ## &#x1F64C; Helping Others
