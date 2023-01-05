@@ -51,7 +51,7 @@ Francisco Maria Calisto is a Human-Computer Interaction (HCI) and Health Informa
 ### &#x26A1; Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#199](https://github.com/cmudig/cmudig.github.io/pull/199) in [cmudig/cmudig.github.io](https://github.com/cmudig/cmudig.github.io)
+1. 🗣 Commented on [#3](https://github.com/MIMBCD-UI/dataset-uta4-dicom/issues/3) in [MIMBCD-UI/dataset-uta4-dicom](https://github.com/MIMBCD-UI/dataset-uta4-dicom)
 <!--END_SECTION:activity-->
 
 ## &#x1F64C; Helping Others
