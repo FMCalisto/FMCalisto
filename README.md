@@ -177,11 +177,11 @@ Most functions of the **R** language are *vectorized*, meaning that [the functio
 ## &#x270d; Discussions
 
 <!-- REDDIT:START -->
-- [Using Artificial Intelligence in Medical Imaging: A First Step Tutorial with Python Code Examples](https://www.reddit.com/r/ArtificialInteligence/comments/zj948v/using_artificial_intelligence_in_medical_imaging/)
-- [Open Source Project about Artificial Intelligence for Breast Cancer Diagnosis](https://www.reddit.com/r/opensource/comments/xyb6tp/open_source_project_about_artificial_intelligence/)
-- [Study for the Adoption of AI in a Clinical Workflow: Modeling Adoption of Intelligent Agents in Medical Imaging](https://www.reddit.com/r/ArtificialInteligence/comments/xyaxa3/study_for_the_adoption_of_ai_in_a_clinical/)
-- [Artificial Intelligence Supporting Medical Diagnosis: Breast Cancer Statistics, 2022](https://www.reddit.com/r/ArtificialInteligence/comments/xyavm9/artificial_intelligence_supporting_medical/)
-- [Breast Cancer Statistics, 2022](https://www.reddit.com/r/Radiology/comments/xyau3w/breast_cancer_statistics_2022/)
+- [Using AI to Advance Medical Imaging](https://www.reddit.com/r/Radiology/comments/1035axp/using_ai_to_advance_medical_imaging/)
+- [My GitHub Profile with projects in Python and JavaScript](https://www.reddit.com/r/learnprogramming/comments/102g3iw/my_github_profile_with_projects_in_python_and/)
+- [/u/FMCalisto on How to convert the duration of MM:SS to seconds in Google Sheets?](https://www.reddit.com/r/googlesheets/comments/102fqyl/how_to_convert_the_duration_of_mmss_to_seconds_in/j2svac5/)
+- [My GitHub Profile with projects in Python and JavaScript](https://www.reddit.com/r/programming/comments/102fvw1/my_github_profile_with_projects_in_python_and/)
+- [How to convert the duration of MM:SS to seconds in Google Sheets?](https://www.reddit.com/r/googlesheets/comments/102fqyl/how_to_convert_the_duration_of_mmss_to_seconds_in/)
 <!-- REDDIT:END -->
 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/FMCalisto)
