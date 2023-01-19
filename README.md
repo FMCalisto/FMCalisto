@@ -177,11 +177,11 @@ Most functions of the **R** language are *vectorized*, meaning that [the functio
 ## &#x270d; Discussions
 
 <!-- REDDIT:START -->
-- [/u/FMCalisto on Squish: AI-generated summaries](https://www.reddit.com/r/artificial/comments/105absk/squish_aigenerated_summaries/j3d25yh/)
-- [Adoption of AI in Medical Imaging Diagnosis](https://www.reddit.com/r/artificial/comments/1045fns/adoption_of_ai_in_medical_imaging_diagnosis/)
-- [Using AI to Advance Medical Imaging](https://www.reddit.com/r/Radiology/comments/1035axp/using_ai_to_advance_medical_imaging/)
-- [My GitHub Profile with projects in Python and JavaScript](https://www.reddit.com/r/learnprogramming/comments/102g3iw/my_github_profile_with_projects_in_python_and/)
-- [/u/FMCalisto on How to convert the duration of MM:SS to seconds in Google Sheets?](https://www.reddit.com/r/googlesheets/comments/102fqyl/how_to_convert_the_duration_of_mmss_to_seconds_in/j2svac5/)
+- [Donald Trump Explaining the Importance of the #CHI2023 venue](https://www.reddit.com/r/humorousreviews/comments/10dmu0l/donald_trump_explaining_the_importance_of_the/)
+- [Donald Trump Explaining the Importance of the #CHI2023 venue](https://www.reddit.com/r/AskThe_Donald/comments/10dmm4g/donald_trump_explaining_the_importance_of_the/)
+- [Donald Trump Explaining the Importance of the #CHI2023 venue](https://www.reddit.com/r/trump/comments/10dmkyp/donald_trump_explaining_the_importance_of_the/)
+- [Donald Trump Explaining the Importance of the #CHI2023 venue](https://www.reddit.com/r/CompSocial/comments/10dmihe/donald_trump_explaining_the_importance_of_the/)
+- [CHI 2023 Paper: Assertiveness-based Agent Communication for a Personalized Medicine on Medical Imaging Diagnosis](https://www.reddit.com/r/CompSocial/comments/10c1xom/chi_2023_paper_assertivenessbased_agent/)
 <!-- REDDIT:END -->
 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/FMCalisto)
