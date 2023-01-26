@@ -51,7 +51,7 @@ Francisco Maria Calisto is a Human-Computer Interaction (HCI) and Health Informa
 ### &#x26A1; Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/FMCalisto/resource-center/pull/14) in [FMCalisto/resource-center](https://github.com/FMCalisto/resource-center)
+1. 🎉 Merged PR [#14](https://github.com/opprDev/resume-simple-react/pull/14) in [opprDev/resume-simple-react](https://github.com/opprDev/resume-simple-react)
 <!--END_SECTION:activity-->
 
 ## &#x1F64C; Helping Others
