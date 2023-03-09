@@ -51,7 +51,7 @@ Francisco Maria Calisto is a Human-Computer Interaction (HCI) and Health Informa
 ### &#x26A1; Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/opprDev/trash-back/pull/5) in [opprDev/trash-back](https://github.com/opprDev/trash-back)
+1. ❗️ Closed issue [#1](https://github.com/MIMBCD-UI/nasa-tlx/issues/1) in [MIMBCD-UI/nasa-tlx](https://github.com/MIMBCD-UI/nasa-tlx)
 <!--END_SECTION:activity-->
 
 ## &#x1F64C; Helping Others
