@@ -114,10 +114,10 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
 https://fmcalisto.hashnode.dev/)
 
 <!-- FCC:START -->
+- [I uncovered 1700 Coursera Courses that Are Still Completely Free](https://www.freecodecamp.org/news/coursera-free-online-courses-6d84cdb30da/)
 - [Here are 850+ Ivy League Courses You Can Take Right Now for Free](https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/)
 - [How to Rock the Coding Interview – Tips That Helped Me Land Job Offers from Google, Airbnb, and Dropbox](https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/)
 - [Why I Turned Down a Six-Figure Salary in Big Tech to Stay at a Five-Person Startup](https://www.freecodecamp.org/news/why-i-turned-down-a-six-figure-salary-in-big-tech-to-stay-at-a-five-person-startup/)
-- [I uncovered 1,600 Coursera courses that are still completely free](https://www.freecodecamp.org/news/coursera-free-online-courses-6d84cdb30da/)
 - [How to Be a Successful Entrepreneur – A Developer&#39;s Guide to Startup Strategy and Design](https://www.freecodecamp.org/news/be-a-successful-entrepreneur-developers-guide-to-startup-strategy-and-design/)
 <!-- FCC:END -->
 
