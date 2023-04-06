@@ -177,11 +177,11 @@ Most functions of the **R** language are *vectorized*, meaning that [the functio
 ## &#x270d; Discussions
 
 <!-- REDDIT:START -->
+- [Assertiveness-based Agent Communication for a Personalized Medical Imaging Diagnosis](https://www.reddit.com/r/healthIT/comments/12d37gy/assertivenessbased_agent_communication_for_a/)
 - [What resources or tools do you use to stay up-to-date with the latest advancements in Machine Learning and Data Analysis?](https://www.reddit.com/r/AskAcademia/comments/11qog7f/what_resources_or_tools_do_you_use_to_stay/)
 - [/u/FMCalisto on How do you balance the demands of publishing research with teaching and other responsibilities?](https://www.reddit.com/r/AskAcademia/comments/11ifco3/how_do_you_balance_the_demands_of_publishing/jay83hv/)
 - [How do you balance the demands of publishing research with teaching and other responsibilities?](https://www.reddit.com/r/AskAcademia/comments/11ifco3/how_do_you_balance_the_demands_of_publishing/)
 - [Donald Trump Explaining the Importance of the #CHI2023 venue](https://www.reddit.com/r/humorousreviews/comments/10dmu0l/donald_trump_explaining_the_importance_of_the/)
-- [Donald Trump Explaining the Importance of the #CHI2023 venue](https://www.reddit.com/r/AskThe_Donald/comments/10dmm4g/donald_trump_explaining_the_importance_of_the/)
 <!-- REDDIT:END -->
 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/FMCalisto)
