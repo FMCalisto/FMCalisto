@@ -178,11 +178,11 @@ Most functions of the **R** language are *vectorized*, meaning that [the functio
 ## &#x270d; Discussions
 
 <!-- REDDIT:START -->
+- [/u/FMCalisto on &lpar;ICWSM 2023&rpar; Effects of Algorithmic Trend Promotion: Evidence from Coordinated Campaigns in Twitter’s Trending Topics](https://www.reddit.com/r/CompSocial/comments/12rubs6/icwsm_2023_effects_of_algorithmic_trend_promotion/jgwas8n/)
+- [/u/FMCalisto on AI is better than corporate governance.](https://www.reddit.com/r/ArtificialInteligence/comments/12mtqx2/ai_is_better_than_corporate_governance/jgect6c/)
 - [Personalized AI Communication in Healthcare: Our Latest Research Findings](https://www.reddit.com/r/datascience/comments/12igfyt/personalized_ai_communication_in_healthcare_our/)
 - [/u/FMCalisto on Is it worth learning these skills?](https://www.reddit.com/r/ArtificialInteligence/comments/12hrah4/is_it_worth_learning_these_skills/jft9cjl/)
 - [/u/FMCalisto on CHI 2023 Paper: Assertiveness-based Agent Communication for a Personalized Medicine on Medical Imaging Diagnosis](https://www.reddit.com/r/CompSocial/comments/10c1xom/chi_2023_paper_assertivenessbased_agent/jfqn4fp/)
-- [[R] Breaking Ground in Machine Learning for Healthcare: Our Paper on Personalized Communication for Breast Cancer Diagnosis at #CHI2023](https://www.reddit.com/r/MachineLearning/comments/12hroxt/r_breaking_ground_in_machine_learning_for/)
-- [/u/FMCalisto on GPT-4 is not good at the game &quot;Countdown&quot;](https://www.reddit.com/r/ArtificialInteligence/comments/12g0ysn/gpt4_is_not_good_at_the_game_countdown/jfk2dcn/)
 <!-- REDDIT:END -->
 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/FMCalisto)
