@@ -51,7 +51,7 @@ Francisco Maria Calisto is a Human-Computer Interaction (HCI) and Health Informa
 ### &#x26A1; Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2394](https://github.com/OHIF/Viewers/issues/2394) in [OHIF/Viewers](https://github.com/OHIF/Viewers)
+1. 🗣 Commented on [#3](https://github.com/mida-project/eye-tracker-naive/issues/3) in [mida-project/eye-tracker-naive](https://github.com/mida-project/eye-tracker-naive)
 <!--END_SECTION:activity-->
 
 ## &#x1F64C; Helping Others
