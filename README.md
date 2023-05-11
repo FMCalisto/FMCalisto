@@ -51,7 +51,7 @@ Francisco Maria Calisto is a Human-Computer Interaction (HCI) and Health Informa
 ### &#x26A1; Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/mida-project/eye-tracker-naive/issues/3) in [mida-project/eye-tracker-naive](https://github.com/mida-project/eye-tracker-naive)
+1. 🎉 Merged PR [#10](https://github.com/FMCalisto/github-slideshow/pull/10) in [FMCalisto/github-slideshow](https://github.com/FMCalisto/github-slideshow)
 <!--END_SECTION:activity-->
 
 ## &#x1F64C; Helping Others
