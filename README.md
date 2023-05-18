@@ -178,11 +178,11 @@ Most functions of the **R** language are *vectorized*, meaning that [the functio
 ## &#x270d; Discussions
 
 <!-- REDDIT:START -->
+- [The importance of Human-Computer Interaction and Artificial Intelligence in Healthcare](https://www.reddit.com/r/CompSocial/comments/13kgl1q/the_importance_of_humancomputer_interaction_and/)
 - [/u/FMCalisto on &lpar;ICWSM 2023&rpar; Effects of Algorithmic Trend Promotion: Evidence from Coordinated Campaigns in Twitter’s Trending Topics](https://www.reddit.com/r/CompSocial/comments/12rubs6/icwsm_2023_effects_of_algorithmic_trend_promotion/jgwas8n/)
 - [/u/FMCalisto on AI is better than corporate governance.](https://www.reddit.com/r/ArtificialInteligence/comments/12mtqx2/ai_is_better_than_corporate_governance/jgect6c/)
 - [Personalized AI Communication in Healthcare: Our Latest Research Findings](https://www.reddit.com/r/datascience/comments/12igfyt/personalized_ai_communication_in_healthcare_our/)
 - [/u/FMCalisto on Is it worth learning these skills?](https://www.reddit.com/r/ArtificialInteligence/comments/12hrah4/is_it_worth_learning_these_skills/jft9cjl/)
-- [/u/FMCalisto on CHI 2023 Paper: Assertiveness-based Agent Communication for a Personalized Medicine on Medical Imaging Diagnosis](https://www.reddit.com/r/CompSocial/comments/10c1xom/chi_2023_paper_assertivenessbased_agent/jfqn4fp/)
 <!-- REDDIT:END -->
 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/FMCalisto)
