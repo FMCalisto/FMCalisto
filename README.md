@@ -178,11 +178,11 @@ Most functions of the **R** language are *vectorized*, meaning that [the functio
 ## &#x270d; Discussions
 
 <!-- REDDIT:START -->
-- [The importance of Human-Computer Interaction and Artificial Intelligence in Healthcare](https://www.reddit.com/r/CompSocial/comments/13kgl1q/the_importance_of_humancomputer_interaction_and/)
-- [/u/FMCalisto on &lpar;ICWSM 2023&rpar; Effects of Algorithmic Trend Promotion: Evidence from Coordinated Campaigns in Twitter’s Trending Topics](https://www.reddit.com/r/CompSocial/comments/12rubs6/icwsm_2023_effects_of_algorithmic_trend_promotion/jgwas8n/)
-- [/u/FMCalisto on AI is better than corporate governance.](https://www.reddit.com/r/ArtificialInteligence/comments/12mtqx2/ai_is_better_than_corporate_governance/jgect6c/)
-- [Personalized AI Communication in Healthcare: Our Latest Research Findings](https://www.reddit.com/r/datascience/comments/12igfyt/personalized_ai_communication_in_healthcare_our/)
-- [/u/FMCalisto on Is it worth learning these skills?](https://www.reddit.com/r/ArtificialInteligence/comments/12hrah4/is_it_worth_learning_these_skills/jft9cjl/)
+- [Exploring the Intersection of AI and HCI: What Needs More Emphasis?](https://www.reddit.com/r/CompSocial/comments/13p2ns1/exploring_the_intersection_of_ai_and_hci_what/)
+- [/u/FMCalisto on Offline Llama [P]](https://www.reddit.com/r/MachineLearning/comments/13mfgg2/offline_llama_p/jkxqiin/)
+- [/u/FMCalisto on Is ChatGPT more empathetic than doctors?](https://www.reddit.com/r/CompSocial/comments/132srqg/is_chatgpt_more_empathetic_than_doctors/jkxowm0/)
+- [/u/FMCalisto on &quot;Humans and algorithms work together — so study them together&quot;](https://www.reddit.com/r/CompSocial/comments/13j4m3k/humans_and_algorithms_work_together_so_study_them/jkxas8h/)
+- [/u/FMCalisto on Superhuman artificial intelligence can improve human decision-making by increasing novelty [PNAS 2023]](https://www.reddit.com/r/CompSocial/comments/13l1cof/superhuman_artificial_intelligence_can_improve/jkx9pyo/)
 <!-- REDDIT:END -->
 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/FMCalisto)
