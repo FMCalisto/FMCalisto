@@ -53,7 +53,7 @@ Francisco Maria Calisto is a Human-Computer Interaction (HCI) and Health Informa
 ### &#x26A1; Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/mida-project/sa-uta7-recall-precision/pull/34) in [mida-project/sa-uta7-recall-precision](https://github.com/mida-project/sa-uta7-recall-precision)
+1. ❗ Opened issue [#972](https://github.com/lencx/ChatGPT/issues/972) in [lencx/ChatGPT](https://github.com/lencx/ChatGPT)
 <!--END_SECTION:activity-->
 
 ## &#x1F64C; Helping Others
