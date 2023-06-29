@@ -53,7 +53,7 @@ Francisco Maria Calisto is a Human-Computer Interaction (HCI) and Health Informa
 ### &#x26A1; Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#972](https://github.com/lencx/ChatGPT/issues/972) in [lencx/ChatGPT](https://github.com/lencx/ChatGPT)
+1. 🔒 Closed issue [#4](https://github.com/mida-project/eye-tracker-naive/issues/4) in [mida-project/eye-tracker-naive](https://github.com/mida-project/eye-tracker-naive)
 <!--END_SECTION:activity-->
 
 ## &#x1F64C; Helping Others
