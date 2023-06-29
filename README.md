@@ -181,10 +181,10 @@ Most functions of the **R** language are *vectorized*, meaning that [the functio
 
 <!-- REDDIT:START -->
 - [Exploring the Intersection of AI and HCI: What Needs More Emphasis?](https://www.reddit.com/r/CompSocial/comments/13p2ns1/exploring_the_intersection_of_ai_and_hci_what/)
+- [/u/FMCalisto on Offline Llama [P]](https://www.reddit.com/r/MachineLearning/comments/13mfgg2/offline_llama_p/jkxqiin/)
 - [/u/FMCalisto on Is ChatGPT more empathetic than doctors?](https://www.reddit.com/r/CompSocial/comments/132srqg/is_chatgpt_more_empathetic_than_doctors/jkxowm0/)
 - [/u/FMCalisto on &quot;Humans and algorithms work together — so study them together&quot;](https://www.reddit.com/r/CompSocial/comments/13j4m3k/humans_and_algorithms_work_together_so_study_them/jkxas8h/)
 - [/u/FMCalisto on Superhuman artificial intelligence can improve human decision-making by increasing novelty [PNAS 2023]](https://www.reddit.com/r/CompSocial/comments/13l1cof/superhuman_artificial_intelligence_can_improve/jkx9pyo/)
-- [/u/FMCalisto on What would be a fair and good way for radiologists become involved in AI?](https://www.reddit.com/r/radiologyAI/comments/137rbf9/what_would_be_a_fair_and_good_way_for/jkwyutr/)
 <!-- REDDIT:END -->
 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/FMCalisto)
