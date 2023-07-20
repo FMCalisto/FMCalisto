@@ -53,7 +53,7 @@ Francisco Maria Calisto is a Human-Computer Interaction (HCI) and Health Informa
 ### &#x26A1; Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/mida-project/prototype-multi-modality-assistant/pull/23) in [mida-project/prototype-multi-modality-assistant](https://github.com/mida-project/prototype-multi-modality-assistant)
+1. 🎉 Merged PR [#35](https://github.com/mida-project/sa-uta7-recall-precision/pull/35) in [mida-project/sa-uta7-recall-precision](https://github.com/mida-project/sa-uta7-recall-precision)
 <!--END_SECTION:activity-->
 
 ## &#x1F64C; Helping Others
