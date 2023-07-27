@@ -53,7 +53,7 @@ Francisco Maria Calisto is a Human-Computer Interaction (HCI) and Health Informa
 ### &#x26A1; Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/mida-project/sa-uta7-recall-precision/pull/35) in [mida-project/sa-uta7-recall-precision](https://github.com/mida-project/sa-uta7-recall-precision)
+1. ❗ Opened issue [#1](https://github.com/BreastScreeningAI/prototype-assertive-proactive/issues/1) in [BreastScreeningAI/prototype-assertive-proactive](https://github.com/BreastScreeningAI/prototype-assertive-proactive)
 <!--END_SECTION:activity-->
 
 ## &#x1F64C; Helping Others
