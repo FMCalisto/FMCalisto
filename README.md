@@ -53,7 +53,7 @@ Francisco Maria Calisto is a Human-Computer Interaction (HCI) and Health Informa
 ### &#x26A1; Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/BreastScreeningAI/prototype-assertive-proactive/issues/1) in [BreastScreeningAI/prototype-assertive-proactive](https://github.com/BreastScreeningAI/prototype-assertive-proactive)
+1. 🎉 Merged PR [#19](https://github.com/opprDev/search-github-repos/pull/19) in [opprDev/search-github-repos](https://github.com/opprDev/search-github-repos)
 <!--END_SECTION:activity-->
 
 ## &#x1F64C; Helping Others
