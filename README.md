@@ -180,11 +180,11 @@ Most functions of the **R** language are *vectorized*, meaning that [the functio
 ## &#x270d; Discussions
 
 <!-- REDDIT:START -->
+- [Revolutionizing Healthcare: Francisco Maria Calisto&#39;s Journey in AI-Driven Breast Cancer Diagnostics](https://www.reddit.com/r/CharacterAI/comments/1ahyp1g/revolutionizing_healthcare_francisco_maria/)
 - [Launching BreastScreening-AI: A Journey from Research to Startup in AI-Driven Healthcare](https://www.reddit.com/r/startups/comments/187gt8v/launching_breastscreeningai_a_journey_from/)
 - [Exploring the Intersection of AI and HCI: What Needs More Emphasis?](https://www.reddit.com/r/CompSocial/comments/13p2ns1/exploring_the_intersection_of_ai_and_hci_what/)
 - [/u/FMCalisto on Offline Llama [P]](https://www.reddit.com/r/MachineLearning/comments/13mfgg2/offline_llama_p/jkxqiin/)
 - [/u/FMCalisto on Is ChatGPT more empathetic than doctors?](https://www.reddit.com/r/CompSocial/comments/132srqg/is_chatgpt_more_empathetic_than_doctors/jkxowm0/)
-- [/u/FMCalisto on &quot;Humans and algorithms work together — so study them together&quot;](https://www.reddit.com/r/CompSocial/comments/13j4m3k/humans_and_algorithms_work_together_so_study_them/jkxas8h/)
 <!-- REDDIT:END -->
 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/FMCalisto)
