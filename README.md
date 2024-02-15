@@ -53,7 +53,7 @@ Francisco Maria Calisto holds a PhD in Computer Science and Engineering from [In
 ### &#x26A1; Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#50](https://github.com/mida-project/sa-uta7-recall-precision/pull/50) in [mida-project/sa-uta7-recall-precision](https://github.com/mida-project/sa-uta7-recall-precision)
+1. 🎉 Merged PR [#49](https://github.com/opprDev/R3LM/pull/49) in [opprDev/R3LM](https://github.com/opprDev/R3LM)
 <!--END_SECTION:activity-->
 
 ## &#x1F64C; Helping Others
