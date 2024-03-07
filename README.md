@@ -53,7 +53,7 @@ Francisco Maria Calisto holds a PhD in Computer Science and Engineering from [In
 ### &#x26A1; Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#49](https://github.com/opprDev/R3LM/pull/49) in [opprDev/R3LM](https://github.com/opprDev/R3LM)
+1. ❗ Opened issue [#1](https://github.com/MIMBCD-UI/dataset-uta11-dicom/issues/1) in [MIMBCD-UI/dataset-uta11-dicom](https://github.com/MIMBCD-UI/dataset-uta11-dicom)
 <!--END_SECTION:activity-->
 
 ## &#x1F64C; Helping Others
