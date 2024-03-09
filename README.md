@@ -141,12 +141,6 @@ https://fmcalisto.hashnode.dev/)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-## &#x1f4c9; CodersRank Stats
-
-<img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=FMCalisto&skills=Lisp,C,C++,CSS,HTML,JSON,Java,JavaScript,MATLAB,Makefile,PHP,Python,SCSS,Shell&show-other-skills=true"
-/>
-
 ## &#x1f525; Metrics
 
 ![Metrics](/github-metrics.svg)
