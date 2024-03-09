@@ -41,7 +41,7 @@ Francisco Maria Calisto holds a PhD in Computer Science and Engineering from [In
 
 ## &#x1f4c8; GitHub Stats
 
-![visitors](https://visitor-badge.glitch.me/badge?style=for-the-badge&page_id=FMCalisto)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=FMCalisto.FMCalisto&left_color=green&right_color=red)
 
 <a href="https://github.com/FMCalisto/FMCalisto">
   <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FMCalisto&layout=compact&langs_count=10&hide=asp,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
