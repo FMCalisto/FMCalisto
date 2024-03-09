@@ -141,13 +141,13 @@ https://fmcalisto.hashnode.dev/)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-## &#127942; Achievements
-
-<img alt="" width="100%" src="https://github.com/FMCalisto/FMCalisto/blob/main/metrics.plugin.achievements.compact.svg" alt=""></img>
-
 ## &#x1f525; Metrics
 
 ![Metrics](/github-metrics.svg)
+
+## &#127942; Achievements
+
+<img alt="" width="100%" src="https://github.com/FMCalisto/FMCalisto/blob/main/metrics.plugin.achievements.compact.svg" alt=""></img>
 
 ## &#x267E; Research
 
