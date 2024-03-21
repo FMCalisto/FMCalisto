@@ -53,7 +53,7 @@ Francisco Maria Calisto holds a PhD in Computer Science and Engineering from [In
 ### &#x26A1; Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/jvandemo/copy-github-labels/issues/19#issuecomment-1984392390) in [jvandemo/copy-github-labels](https://github.com/jvandemo/copy-github-labels)
+1. ❗ Opened issue [#5](https://github.com/FMCalisto/github-labels-copy/issues/5) in [FMCalisto/github-labels-copy](https://github.com/FMCalisto/github-labels-copy)
 <!--END_SECTION:activity-->
 
 ## &#x1F64C; Helping Others
