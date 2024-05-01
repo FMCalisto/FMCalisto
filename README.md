@@ -92,7 +92,6 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
 ### Recent Blog Posts
 
 <!-- BLOG:START -->
-- [&quot;Unraveling Financial Complexity: Insights on IPOs, Market Trends, and Bitcoin&#39;s Impact&quot;](https://fmcalisto.blogspot.com/2024/04/unraveling-financial-complexity.html)
 - [Personalized AI for Medical Diagnosis: A Look Into the Future Published at #CHI2023](https://fmcalisto.blogspot.com/2023/04/personalized-ai-for-medical-diagnosis.html)
 - [Resuming the resume: Who am I?](https://fmcalisto.blogspot.com/2022/07/resuming-resume-who-am-i.html)
 <!-- BLOG:END -->
