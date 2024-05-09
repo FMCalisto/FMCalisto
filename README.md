@@ -53,7 +53,7 @@ Francisco Maria Calisto holds a PhD in Computer Science and Engineering from [In
 ### &#x26A1; Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5](https://github.com/FMCalisto/github-labels-copy/issues/5) in [FMCalisto/github-labels-copy](https://github.com/FMCalisto/github-labels-copy)
+1. 🔒 Closed issue [#6](https://github.com/MIMBCD-UI/data-pipeline/issues/6) in [MIMBCD-UI/data-pipeline](https://github.com/MIMBCD-UI/data-pipeline)
 <!--END_SECTION:activity-->
 
 ## &#x1F64C; Helping Others
