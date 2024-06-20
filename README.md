@@ -178,11 +178,11 @@ Most functions of the **R** language are *vectorized*, meaning that [the functio
 ## &#x270d; Discussions
 
 <!-- REDDIT:START -->
+- [/u/FMCalisto on is chatgpt down?](https://www.reddit.com/r/ChatGPT/comments/1di5e9l/is_chatgpt_down/l923jxh/)
 - [Temas de Dissertação em MEIC nas áreas de IA aplicada à Saúde](https://www.reddit.com/r/IST/comments/1ddgq4g/temas_de_dissertação_em_meic_nas_áreas_de_ia/)
 - [Temas de Dissertação em Engenharia Biomédica com Foco em IA](https://www.reddit.com/r/IST/comments/1d82z6d/temas_de_dissertação_em_engenharia_biomédica_com/)
 - [/u/FMCalisto on Professor Tese MEIC](https://www.reddit.com/r/IST/comments/1cy20cs/professor_tese_meic/l71iz3r/)
 - [/u/FMCalisto on What term should I use when talking about journals?](https://www.reddit.com/r/AskAcademia/comments/1bkvuv4/what_term_should_i_use_when_talking_about_journals/kw1o9h8/)
-- [/u/FMCalisto on Is writing an article always so painfully overwhelming?](https://www.reddit.com/r/AskAcademia/comments/1bkdaan/is_writing_an_article_always_so_painfully/kvxqvqs/)
 <!-- REDDIT:END -->
 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/FMCalisto)
