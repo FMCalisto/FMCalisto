@@ -53,7 +53,7 @@ Francisco Maria Calisto holds a PhD in Computer Science and Engineering from [In
 ### &#x26A1; Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#6](https://github.com/MIMBCD-UI/data-pipeline/issues/6) in [MIMBCD-UI/data-pipeline](https://github.com/MIMBCD-UI/data-pipeline)
+1. 🎉 Merged PR [#21](https://github.com/FMCalisto/redux-get-started/pull/21) in [FMCalisto/redux-get-started](https://github.com/FMCalisto/redux-get-started)
 <!--END_SECTION:activity-->
 
 ## &#x1F64C; Helping Others
