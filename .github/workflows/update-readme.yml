@@ -41,11 +41,15 @@ jobs:
                   commits=$(curl -s -H "Authorization: token $UPDATE_README" -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/$repo/commits?per_page=100&page=$commit_page)
                   if echo "$commits" | jq empty; then
                     commit_count=$(echo "$commits" | jq '. | length')
-                    echo "Found $commit_count commits on page $commit_page for repo $repo"
                     if [ "$commit_count" -eq 0 ]; then
                       echo "No commits found on page $commit_page for repo $repo"
                       break
                     fi
+                    if ! [[ "$commit_count" =~ ^[0-9]+$ ]]; then
+                      echo "Invalid commit count: '$commit_count'"
+                      break
+                    fi
+                    echo "Found $commit_count commits on page $commit_page for repo $repo"
                     repo_commits=$((repo_commits + commit_count))
                     commit_page=$((commit_page + 1))
                   else
