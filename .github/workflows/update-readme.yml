@@ -56,7 +56,7 @@ jobs:
                 echo "Total commits for repo $repo: $repo_commits"
                 total_commits=$((total_commits + repo_commits))
               else
-                echo "Empty repository name found"
+                echo "Empty repository name found: '$repo'"
               fi
             done
             page=$((page + 1))
