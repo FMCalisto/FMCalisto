@@ -22,15 +22,28 @@ jobs:
           total_commits=0
           page=1
           while :; do
+            echo "Fetching repos for page $page"
             repos=$(curl -H "Authorization: token $GITHUB_TOKEN" -H "Accept: application/vnd.github.v3+json" https://api.github.com/user/repos?per_page=100&page=$page | jq -r '.[].full_name')
             [ -z "$repos" ] && break
             for repo in $repos; do
-              commit_count=$(curl -H "Authorization: token $GITHUB_TOKEN" -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/$repo/commits?per_page=1 | jq '. | length')
-              total_commits=$((total_commits + commit_count))
+              echo "Processing repo: $repo"
+              repo_commits=0
+              commit_page=1
+              while :; do
+                echo "Fetching commits for repo $repo, page $commit_page"
+                commits=$(curl -H "Authorization: token $GITHUB_TOKEN" -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/$repo/commits?per_page=100&page=$commit_page)
+                commit_count=$(echo "$commits" | jq '. | length')
+                echo "Found $commit_count commits on page $commit_page for repo $repo"
+                [ "$commit_count" -eq 0 ] && break
+                repo_commits=$((repo_commits + commit_count))
+                commit_page=$((commit_page + 1))
+              done
+              echo "Total commits for repo $repo: $repo_commits"
+              total_commits=$((total_commits + repo_commits))
             done
             page=$((page + 1))
           done
-          echo "Total commits: $total_commits"
+          echo "Total commits across all repos: $total_commits"
           # Update the README file with the new commit count
           sed -i "s/Total Commits: [0-9k]*/Total Commits: ${total_commits}/" README.md
           
