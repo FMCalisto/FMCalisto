@@ -23,6 +23,8 @@ jobs:
           page=1
           while :; do
             echo "Fetching repos for page $page"
+            rate_limit=$(curl -s -H "Authorization: token $UPDATE_README" https://api.github.com/rate_limit)
+            echo "Rate limit status: $rate_limit"
             repos=$(curl -s -H "Authorization: token $UPDATE_README" -H "Accept: application/vnd.github.v3+json" https://api.github.com/user/repos?per_page=100&page=$page | jq -r '.[].full_name')
             if [ -z "$repos" ]; then
               echo "No more repositories found on page $page"
@@ -35,6 +37,7 @@ jobs:
               while :; do
                 echo "Fetching commits for repo $repo, page $commit_page"
                 commits=$(curl -s -H "Authorization: token $UPDATE_README" -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/$repo/commits?per_page=100&page=$commit_page)
+                echo "Commits response: $commits"
                 if echo "$commits" | jq empty; then
                   commit_count=$(echo "$commits" | jq '. | length')
                   echo "Found $commit_count commits on page $commit_page for repo $repo"
@@ -45,7 +48,7 @@ jobs:
                   repo_commits=$((repo_commits + commit_count))
                   commit_page=$((commit_page + 1))
                 else
-                  echo "Error fetching commits for repo $repo, page $commit_page"
+                  echo "Error fetching commits for repo $repo, page $commit_page: $commits"
                   break
                 fi
               done
