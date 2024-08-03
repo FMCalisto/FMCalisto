@@ -32,29 +32,32 @@ jobs:
               break
             fi
             for repo in $repos; do
-              echo "Processing repo: $repo"
-              repo_commits=0
-              commit_page=1
-              while :; do
-                echo "Fetching commits for repo $repo, page $commit_page"
-                commits=$(curl -s -H "Authorization: token $UPDATE_README" -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/$repo/commits?per_page=100&page=$commit_page)
-                echo "Commits response: $commits"
-                if echo "$commits" | jq empty; then
-                  commit_count=$(echo "$commits" | jq '. | length')
-                  echo "Found $commit_count commits on page $commit_page for repo $repo"
-                  if [ "$commit_count" -eq 0 ]; then
-                    echo "No commits found on page $commit_page for repo $repo"
+              if [ -n "$repo" ]; then
+                echo "Processing repo: $repo"
+                repo_commits=0
+                commit_page=1
+                while :; do
+                  echo "Fetching commits for repo $repo, page $commit_page"
+                  commits=$(curl -s -H "Authorization: token $UPDATE_README" -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/$repo/commits?per_page=100&page=$commit_page)
+                  if echo "$commits" | jq empty; then
+                    commit_count=$(echo "$commits" | jq '. | length')
+                    echo "Found $commit_count commits on page $commit_page for repo $repo"
+                    if [ "$commit_count" -eq 0 ]; then
+                      echo "No commits found on page $commit_page for repo $repo"
+                      break
+                    fi
+                    repo_commits=$((repo_commits + commit_count))
+                    commit_page=$((commit_page + 1))
+                  else
+                    echo "Error fetching commits for repo $repo, page $commit_page: $commits"
                     break
                   fi
-                  repo_commits=$((repo_commits + commit_count))
-                  commit_page=$((commit_page + 1))
-                else
-                  echo "Error fetching commits for repo $repo, page $commit_page: $commits"
-                  break
-                fi
-              done
-              echo "Total commits for repo $repo: $repo_commits"
-              total_commits=$((total_commits + repo_commits))
+                done
+                echo "Total commits for repo $repo: $repo_commits"
+                total_commits=$((total_commits + repo_commits))
+              else
+                echo "Empty repository name found"
+              fi
             done
             page=$((page + 1))
           done
