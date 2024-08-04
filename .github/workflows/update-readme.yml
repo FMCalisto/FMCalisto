@@ -26,8 +26,8 @@ jobs:
 
             # Fetch rate limit status
             rate_limit=$(curl -s -H "Authorization: token $UPDATE_README" https://api.github.com/rate_limit)
-            remaining=$(echo "$rate_limit" | jq '.resources.core.remaining | tonumber')
-            reset=$(echo "$rate_limit" | jq '.resources.core.reset | tonumber')
+            remaining=$(echo "$rate_limit" | jq '.resources.core.remaining')
+            reset=$(echo "$rate_limit" | jq '.resources.core.reset')
 
             # Handle rate limit exceeded
             if [ -z "$remaining" ] || [ -z "$reset" ] || [ "$remaining" -eq 0 ]; then
@@ -59,8 +59,8 @@ jobs:
                   # Fetch commits for the repo, with rate limit check if nearing the limit
                   if [ "$remaining" -le 10 ]; then
                     rate_limit=$(curl -s -H "Authorization: token $UPDATE_README" https://api.github.com/rate_limit)
-                    remaining=$(echo "$rate_limit" | jq '.resources.core.remaining | tonumber')
-                    reset=$(echo "$rate_limit" | jq '.resources.core.reset | tonumber')
+                    remaining=$(echo "$rate_limit" | jq '.resources.core.remaining')
+                    reset=$(echo "$rate_limit" | jq '.resources.core.reset')
 
                     if [ -z "$remaining" ] || [ -z "$reset" ] || [ "$remaining" -eq 0 ]; then
                       wait_time=$((reset - $(date +%s) + 1))
