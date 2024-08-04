@@ -14,8 +14,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-        with:
-          node-version: '20' # Ensure Node.js 20 is used
 
       - name: Setup JQ
         run: sudo apt-get install -y jq
