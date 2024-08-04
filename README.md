@@ -147,7 +147,7 @@ https://fmcalisto.hashnode.dev/)
 
 ## &#127942; Achievements
 
-<img alt="" width="100%" src="https://github.com/FMCalisto/FMCalisto/blob/main/metrics.plugin.achievements.compact.svg" alt=""></img>
+<img alt="" width="90%" src="https://github.com/FMCalisto/FMCalisto/blob/main/metrics.plugin.achievements.compact.svg" alt=""></img>
 
 ## &#x267E; Research
 
