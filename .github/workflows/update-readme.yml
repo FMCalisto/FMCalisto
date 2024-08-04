@@ -30,9 +30,9 @@ jobs:
             reset=$(echo "$rate_limit" | jq '.resources.core.reset')
 
             # Handle rate limit exceeded
-            if [ "$remaining" -eq 0 ]; then
+            if [ -z "$remaining" ] || [ -z "$reset" ] || [ "$remaining" -eq 0 ]; then
               wait_time=$((reset - $(date +%s) + 1))
-              echo "Rate limit exceeded. Waiting for reset in $wait_time seconds..."
+              echo "Rate limit exceeded or invalid rate limit data. Waiting for reset in $wait_time seconds..."
               sleep $wait_time
               continue
             fi
@@ -62,9 +62,9 @@ jobs:
                     remaining=$(echo "$rate_limit" | jq '.resources.core.remaining')
                     reset=$(echo "$rate_limit" | jq '.resources.core.reset')
 
-                    if [ "$remaining" -eq 0 ]; then
+                    if [ -z "$remaining" ] || [ -z "$reset" ] || [ "$remaining" -eq 0 ]; then
                       wait_time=$((reset - $(date +%s) + 1))
-                      echo "Rate limit exceeded. Waiting for reset in $wait_time seconds..."
+                      echo "Rate limit exceeded or invalid rate limit data. Waiting for reset in $wait_time seconds..."
                       sleep $wait_time
                       continue
                     fi
@@ -73,7 +73,7 @@ jobs:
                   commits=$(curl -s -H "Authorization: token $UPDATE_README" -H "Accept: application/vnd.github.v3+json" "https://api.github.com/repos/$repo/commits?per_page=100&page=$commit_page")
                   echo "Raw commits response: $commits"
 
-                  if [ -n "$commits" ] && echo "$commits" | jq empty; then
+                  if [ -n "$commits" ] && echo "$commits" | jq empty 2>/dev/null; then
                     commit_count=$(echo "$commits" | jq '. | length')
                     if [ -z "$commit_count" ] || ! [[ "$commit_count" =~ ^[0-9]+$ ]]; then
                       echo "Invalid or empty commit count: '$commit_count'"
