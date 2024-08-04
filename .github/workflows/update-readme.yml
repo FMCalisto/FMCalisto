@@ -6,8 +6,11 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme:
+  update-commits:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        part: [1, 2, 3, 4] # Split into 4 parts
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -15,12 +18,14 @@ jobs:
       - name: Setup JQ
         run: sudo apt-get install -y jq
 
-      - name: Fetch and Update Commit Count
+      - name: Fetch and Update Commit Count (Part ${{ matrix.part }})
         env:
           UPDATE_README: ${{ secrets.UPDATE_README }}
         run: |
           total_commits=0
           page=1
+          last_commit_date=$(cat last_commit_date.txt || echo '1970-01-01T00:00:00Z')
+
           while :; do
             echo "Fetching repos for page $page"
 
@@ -57,7 +62,15 @@ jobs:
               break
             fi
 
-            for repo in $repos; do
+            # Split the repositories based on the matrix part
+            repos_array=($repos)
+            total_repos=${#repos_array[@]}
+            part_size=$((total_repos / 4))
+            start_index=$(( (matrix.part - 1) * part_size ))
+            end_index=$(( matrix.part * part_size - 1 ))
+
+            for repo_index in $(seq $start_index $end_index); do
+              repo=${repos_array[$repo_index]}
               if [ -n "$repo" ]; then
                 echo "Processing repo: $repo"
                 repo_commits=0
@@ -84,7 +97,7 @@ jobs:
                     fi
                   fi
 
-                  commits=$(curl -s -H "Authorization: token $UPDATE_README" -H "Accept: application/vnd.github.v3+json" "https://api.github.com/repos/$repo/commits?per_page=100&page=$commit_page")
+                  commits=$(curl -s -H "Authorization: token $UPDATE_README" -H "Accept: application/vnd.github.v3+json" "https://api.github.com/repos/$repo/commits?since=$last_commit_date&per_page=100&page=$commit_page")
                   if ! echo "$commits" | jq empty 2>/dev/null; then
                     echo "Failed to fetch commits or invalid JSON response for repo $repo, page $commit_page: $commits"
                     break
@@ -115,6 +128,10 @@ jobs:
 
           # Update the README file with the new commit count
           sed -i "s/Total Commits: [0-9,]*/Total Commits: ${total_commits}/" README.md
+
+          # After processing commits, update the last commit date
+          new_last_commit_date=$(echo "$commits" | jq -r '.[-1].commit.author.date // empty')
+          echo "$new_last_commit_date" > last_commit_date.txt
 
       - name: Commit changes
         run: |
