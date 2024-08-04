@@ -66,7 +66,7 @@ jobs:
             # Split the repositories based on the matrix part
             repos_array=($repos)
             total_repos=${#repos_array[@]}
-            part_size=$((total_repos / 4))
+            part_size=$(( (total_repos + 3) / 4 ))  # Divide into 4 parts, rounding up
             start_index=$(( (${matrix.part} - 1) * part_size ))
             end_index=$(( ${matrix.part} * part_size - 1 ))
 
