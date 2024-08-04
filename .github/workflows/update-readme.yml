@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+        with:
+          node-version: '20' # Ensure Node.js 20 is used
 
       - name: Setup JQ
         run: sudo apt-get install -y jq
@@ -22,6 +24,7 @@ jobs:
         env:
           UPDATE_README: ${{ secrets.UPDATE_README }}
         run: |
+          set -e # Exit immediately if a command exits with a non-zero status
           total_commits=0
           page=1
           last_commit_date=$(cat last_commit_date.txt || echo '1970-01-01T00:00:00Z')
@@ -137,6 +140,6 @@ jobs:
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
-          git add README.md
+          git add README.md last_commit_date.txt
           git commit -m "Update total commits in README"
           git push
