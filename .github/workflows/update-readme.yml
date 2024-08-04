@@ -70,7 +70,18 @@ jobs:
             start_index=$(( (${matrix.part} - 1) * part_size ))
             end_index=$(( ${matrix.part} * part_size - 1 ))
 
+            echo "Matrix Part: ${{ matrix.part }}"
+            echo "Total Repos: $total_repos"
+            echo "Part Size: $part_size"
+            echo "Start Index: $start_index"
+            echo "End Index: $end_index"
+
             for repo_index in $(seq $start_index $end_index); do
+              if [ $repo_index -ge $total_repos ]; then
+                echo "Repo index $repo_index exceeds total repos $total_repos. Breaking."
+                break
+              fi
+
               repo=${repos_array[$repo_index]}
               if [ -n "$repo" ]; then
                 echo "Processing repo: $repo"
