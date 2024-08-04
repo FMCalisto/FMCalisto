@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        part: [1, 2, 3, 4] # Split into 4 parts
+        part: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10] # Adjust the number of parts as needed
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -22,11 +22,13 @@ jobs:
         env:
           UPDATE_README: ${{ secrets.UPDATE_README }}
         run: |
-          set -e # Exit immediately if a command exits with a non-zero status
           total_commits=0
           page=1
-          last_commit_date=$(cat last_commit_date.txt || echo '1970-01-01T00:00:00Z')
-
+          part_size=10 # Number of repositories to process per part
+          repo_start=$(( (matrix.part - 1) * part_size + 1 ))
+          repo_end=$(( matrix.part * part_size ))
+          repo_count=0
+          
           while :; do
             echo "Fetching repos for page $page"
 
@@ -63,26 +65,12 @@ jobs:
               break
             fi
 
-            # Split the repositories based on the matrix part
-            repos_array=($repos)
-            total_repos=${#repos_array[@]}
-            part_size=$(( (total_repos + 3) / 4 ))  # Divide into 4 parts, rounding up
-            start_index=$(( (${{ matrix.part }} - 1) * part_size ))
-            end_index=$(( ${{ matrix.part }} * part_size - 1 ))
-
-            echo "Matrix Part: ${{ matrix.part }}"
-            echo "Total Repos: $total_repos"
-            echo "Part Size: $part_size"
-            echo "Start Index: $start_index"
-            echo "End Index: $end_index"
-
-            for repo_index in $(seq $start_index $end_index); do
-              if [ $repo_index -ge $total_repos ]; then
-                echo "Repo index $repo_index exceeds total repos $total_repos. Breaking."
-                break
+            for repo in $repos; do
+              repo_count=$((repo_count + 1))
+              if [ "$repo_count" -lt "$repo_start" ] || [ "$repo_count" -gt "$repo_end" ]; then
+                continue
               fi
 
-              repo=${repos_array[$repo_index]}
               if [ -n "$repo" ]; then
                 echo "Processing repo: $repo"
                 repo_commits=0
@@ -109,7 +97,7 @@ jobs:
                     fi
                   fi
 
-                  commits=$(curl -s -H "Authorization: token $UPDATE_README" -H "Accept: application/vnd.github.v3+json" "https://api.github.com/repos/$repo/commits?since=$last_commit_date&per_page=100&page=$commit_page")
+                  commits=$(curl -s -H "Authorization: token $UPDATE_README" -H "Accept: application/vnd.github.v3+json" "https://api.github.com/repos/$repo/commits?per_page=100&page=$commit_page")
                   if ! echo "$commits" | jq empty 2>/dev/null; then
                     echo "Failed to fetch commits or invalid JSON response for repo $repo, page $commit_page: $commits"
                     break
@@ -141,14 +129,10 @@ jobs:
           # Update the README file with the new commit count
           sed -i "s/Total Commits: [0-9,]*/Total Commits: ${total_commits}/" README.md
 
-          # After processing commits, update the last commit date
-          new_last_commit_date=$(echo "$commits" | jq -r '.[-1].commit.author.date // empty')
-          echo "$new_last_commit_date" > last_commit_date.txt
-
       - name: Commit changes
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
-          git add README.md last_commit_date.txt
+          git add README.md
           git commit -m "Update total commits in README"
           git push
