@@ -67,8 +67,8 @@ jobs:
             repos_array=($repos)
             total_repos=${#repos_array[@]}
             part_size=$((total_repos / 4))
-            start_index=$(( (matrix.part - 1) * part_size ))
-            end_index=$(( matrix.part * part_size - 1 ))
+            start_index=$(( (${matrix.part} - 1) * part_size ))
+            end_index=$(( ${matrix.part} * part_size - 1 ))
 
             for repo_index in $(seq $start_index $end_index); do
               repo=${repos_array[$repo_index]}
