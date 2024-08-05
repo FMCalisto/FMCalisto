@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        part: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10] # Adjust the number of parts as needed
+        part: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20] # Adjust as needed
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -24,7 +24,7 @@ jobs:
         run: |
           total_commits=0
           page=1
-          part_size=10 # Number of repositories to process per part
+          part_size=5 # Adjust the number of repositories each part processes
           repo_start=$(( (matrix.part - 1) * part_size + 1 ))
           repo_end=$(( matrix.part * part_size ))
           repo_count=0
