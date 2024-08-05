@@ -44,10 +44,10 @@ Francisco Maria Calisto holds a PhD in Computer Science and Engineering from [In
 ![visitors](https://komarev.com/ghpvc/?username=FMCalisto&style=for-the-badge)
 
 <a href="https://github.com/FMCalisto/FMCalisto">
-  <img width="25%" align="center" src="https://github-readme-stats-ten-theta-57.vercel.app/api/top-langs/?username=FMCalisto&layout=compact&langs_count=10&hide=asp,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img width="20%" align="center" src="https://github-readme-stats-ten-theta-57.vercel.app/api/top-langs/?username=FMCalisto&layout=compact&langs_count=10&hide=asp,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/FMCalisto/FMCalisto">
-  <img width="75%" align="center" src="https://github-readme-stats-ten-theta-57.vercel.app/api?username=FMCalisto&rank_icon=default&show_icons=true&line_height=27&include_all_commits=true&count_private=true&cache_seconds=1800&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_bust=true" alt="Francisco's GitHub Stats" />
+  <img width="70%" align="center" src="https://github-readme-stats-ten-theta-57.vercel.app/api?username=FMCalisto&rank_icon=default&show_icons=true&line_height=27&include_all_commits=true&count_private=true&cache_seconds=1800&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_bust=true" alt="Francisco's GitHub Stats" />
 </a>
 
 ### &#x26A1; Recent GitHub Activity
