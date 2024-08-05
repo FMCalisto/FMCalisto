@@ -21,12 +21,13 @@ jobs:
       - name: Fetch and Update Commit Count (Part ${{ matrix.part }})
         env:
           UPDATE_README: ${{ secrets.UPDATE_README }}
+          PART: ${{ matrix.part }}
         run: |
           total_commits=0
           page=1
           part_size=1 # Reduce the number of repositories each part processes
-          repo_start=$(( (${matrix.part} - 1) * part_size + 1 ))
-          repo_end=$(( ${matrix.part} * part_size ))
+          repo_start=$(( (PART - 1) * part_size + 1 ))
+          repo_end=$(( PART * part_size ))
           repo_count=0
           
           while :; do
