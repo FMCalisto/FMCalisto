@@ -8,9 +8,6 @@ on:
 jobs:
   update-commits:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        part: [1-100] # Increase to 100 parts
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -18,23 +15,20 @@ jobs:
       - name: Setup JQ
         run: sudo apt-get install -y jq
 
-      - name: Fetch and Update Commit Count (Part ${{ matrix.part }})
+      - name: Fetch and Update Commit Count
         env:
-          UPDATE_README: ${{ secrets.UPDATE_README }}
-          PART: ${{ matrix.part }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           total_commits=0
           page=1
-          part_size=10 # Adjust the part size if needed
-          repo_start=$(( (PART - 1) * part_size + 1 ))
-          repo_end=$(( PART * part_size ))
+          part_size=100 # Number of repos to fetch per page
           repo_count=0
 
           while :; do
             echo "Fetching repos for page $page"
 
             # Fetch rate limit status
-            rate_limit=$(curl -s -H "Authorization: token $UPDATE_README" https://api.github.com/rate_limit)
+            rate_limit=$(curl -s -H "Authorization: token $GH_TOKEN" https://api.github.com/rate_limit)
             remaining=$(echo "$rate_limit" | jq '.resources.core.remaining // empty')
             reset=$(echo "$rate_limit" | jq '.resources.core.reset // empty')
 
@@ -52,7 +46,7 @@ jobs:
             fi
 
             # Fetch repositories for the current page
-            repos=$(curl -s -H "Authorization: token $UPDATE_README" -H "Accept: application/vnd.github.v3+json" "https://api.github.com/user/repos?per_page=100&page=$page")
+            repos=$(curl -s -H "Authorization: token $GH_TOKEN" -H "Accept: application/vnd.github.v3+json" "https://api.github.com/user/repos?per_page=$part_size&page=$page")
             if ! echo "$repos" | jq empty 2>/dev/null; then
               echo "Failed to fetch repositories or invalid JSON response: $repos"
               break
@@ -68,10 +62,6 @@ jobs:
 
             for repo in $repos; do
               repo_count=$((repo_count + 1))
-              if [ "$repo_count" -lt "$repo_start" ] || [ "$repo_count" -gt "$repo_end" ]; then
-                continue
-              fi
-
               if [ -n "$repo" ]; then
                 echo "Processing repo: $repo"
                 repo_commits=0
@@ -81,7 +71,7 @@ jobs:
 
                   # Fetch commits for the repo, with rate limit check if nearing the limit
                   if [ "$remaining" -le 10 ]; then
-                    rate_limit=$(curl -s -H "Authorization: token $UPDATE_README" https://api.github.com/rate_limit)
+                    rate_limit=$(curl -s -H "Authorization: token $GH_TOKEN" https://api.github.com/rate_limit)
                     remaining=$(echo "$rate_limit" | jq '.resources.core.remaining // empty')
                     reset=$(echo "$rate_limit" | jq '.resources.core.reset // empty')
 
@@ -98,7 +88,7 @@ jobs:
                     fi
                   fi
 
-                  commits=$(curl -s -H "Authorization: token $UPDATE_README" -H "Accept: application/vnd.github.v3+json" "https://api.github.com/repos/$repo/commits?per_page=100&page=$commit_page")
+                  commits=$(curl -s -H "Authorization: token $GH_TOKEN" -H "Accept: application/vnd.github.v3+json" "https://api.github.com/repos/$repo/commits?per_page=100&page=$commit_page")
                   if ! echo "$commits" | jq empty 2>/dev/null; then
                     echo "Failed to fetch commits or invalid JSON response for repo $repo, page $commit_page: $commits"
                     break
