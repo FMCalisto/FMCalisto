@@ -74,7 +74,7 @@ Contributing to the open source community can be challenging and sometimes terri
 
 ### &#x272D; Total Contributions and Streaks
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FMCalisto"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FMCalisto" width="100%"/>
 
 ## &#x2692; Contributed Repositories
 
