@@ -25,8 +25,8 @@ jobs:
           total_commits=0
           page=1
           part_size=1 # Reduce the number of repositories each part processes
-          repo_start=$(( (matrix.part - 1) * part_size + 1 ))
-          repo_end=$(( matrix.part * part_size ))
+          repo_start=$(( (${matrix.part} - 1) * part_size + 1 ))
+          repo_end=$(( ${matrix.part} * part_size ))
           repo_count=0
           
           while :; do
