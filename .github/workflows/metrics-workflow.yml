@@ -17,43 +17,39 @@ jobs:
     permissions:
       contents: write
     steps:
-      # Checkout the repository to access code and files
       - name: Checkout Repository
         uses: actions/checkout@v2
 
-      # Set up Node.js environment
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '16'
 
-      # Generate GitHub metrics
       - name: Generate Metrics
         uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          # The following additional scopes may be required:
-          #  - read:org      (for organization related metrics)
-          #  - read:user     (for user related data)
-          #  - read:packages (for some packages related data)
-          #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.GH_TOKEN }}
-
-          # Options for metrics
           user: FMCalisto
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/New_York
-          config_commits: all  # Include all commits
-          config_private: yes  # Include private contributions
+          config_commits: all
+          config_private: yes
 
-      # Commit and push the generated metrics to the repository
-      - name: Commit and Push Metrics
+      - name: Check for Changes
+        id: git_status
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add .
+          if git diff-index --quiet HEAD; then
+            echo "::set-output name=changes::false"
+          else
+            echo "::set-output name=changes::true"
+          fi
+
+      - name: Commit and Push Metrics
+        if: steps.git_status.outputs.changes == 'true'
+        run: |
           git commit -m "Update GitHub metrics"
           git push
