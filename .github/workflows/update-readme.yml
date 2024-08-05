@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        part: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10] # Adjust the number of parts as needed
+        part: [1-100] # Increase to 100 parts
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -25,7 +25,7 @@ jobs:
         run: |
           total_commits=0
           page=1
-          part_size=10 # Adjust the part size as needed
+          part_size=10 # Adjust the part size if needed
           repo_start=$(( (PART - 1) * part_size + 1 ))
           repo_end=$(( PART * part_size ))
           repo_count=0
