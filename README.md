@@ -153,7 +153,7 @@ https://fmcalisto.hashnode.dev/)
 
 As researcher, [Google Scholar](https://scholar.google.com/citations?user=KI0G_SUAAAAJ) is the most representative platform for my current publications. However, it could be interesting to follow my [ResearchGate](https://www.researchgate.net/profile/Francisco-Maria-Calisto) account. You can also find me on [Publons](https://publons.com/researcher/2053485/francisco-maria-calisto/), where the [ResearcherID](https://publons.com/researcher/O-7933-2017/) for my [Web of Science](https://www.webofscience.com/wos/alldb/summary/064b8532-c2bd-49da-ae17-064d3e0fd14d-40505616/relevance/1) account is following the [`O-7933-2017`](https://publons.com/researcher/O-7933-2017/) reference code. Finally, my [ORCID](https://orcid.org/0000-0001-8179-7872) is represented by the [`0000-0001-8179-7872`](https://orcid.org/0000-0001-8179-7872) reference number.
 
-List of research repositories:
+List of research initiatives:
 
 - [SIPG-ISR](http://sipg.isr.ist.utl.pt/) ([@sipg-isr](https://github.com/sipg-isr))
 
