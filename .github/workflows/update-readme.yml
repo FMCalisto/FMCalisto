@@ -8,9 +8,6 @@ on:
 jobs:
   update-commits:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        part: [1-200]
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -18,30 +15,16 @@ jobs:
       - name: Setup JQ
         run: sudo apt-get install -y jq
 
-      - name: Fetch and Update Commit Count (Part ${{ matrix.part }})
+      - name: Fetch and Update Commit Count
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          PART: ${{ matrix.part }}
         run: |
-          set -e
           total_commits=0
           page=1
-          part_size=5
-          repo_start=$(( (PART - 1) * part_size + 1 ))
-          repo_end=$(( PART * part_size ))
-          repo_count=0
 
-          fetch_repos() {
-            curl -s -H "Authorization: token $GH_TOKEN" -H "Accept: application/vnd.github.v3+json" "https://api.github.com/user/repos?per_page=100&page=$page"
-          }
+          while :; do
+            echo "Fetching repos for page $page"
 
-          fetch_commits() {
-            repo=$1
-            commit_page=$2
-            curl -s -H "Authorization: token $GH_TOKEN" -H "Accept: application/vnd.github.v3+json" "https://api.github.com/repos/$repo/commits?per_page=100&page=$commit_page"
-          }
-
-          handle_rate_limit() {
             rate_limit=$(curl -s -H "Authorization: token $GH_TOKEN" https://api.github.com/rate_limit)
             remaining=$(echo "$rate_limit" | jq '.resources.core.remaining // empty')
             reset=$(echo "$rate_limit" | jq '.resources.core.reset // empty')
@@ -55,15 +38,10 @@ jobs:
                 echo "Rate limit data is invalid or missing. Exiting."
                 exit 1
               fi
+              continue
             fi
-          }
 
-          while :; do
-            echo "Fetching repos for page $page"
-            handle_rate_limit
-            repos=$(fetch_repos)
-            echo "API Response: $repos"  # Log the raw API response
-
+            repos=$(curl -s -H "Authorization: token $GH_TOKEN" -H "Accept: application/vnd.github.v3+json" "https://api.github.com/user/repos?per_page=100&page=$page")
             if ! echo "$repos" | jq empty 2>/dev/null; then
               echo "Failed to fetch repositories or invalid JSON response: $repos"
               break
@@ -78,44 +56,51 @@ jobs:
             fi
 
             for repo in $repos; do
-              repo_count=$((repo_count + 1))
-              if [ "$repo_count" -lt "$repo_start" ] || [ "$repo_count" -gt "$repo_end" ]; then
-                continue
-              fi
+              echo "Processing repo: $repo"
+              repo_commits=0
+              commit_page=1
+              while :; do
+                echo "Fetching commits for repo $repo, page $commit_page"
 
-              if [ -n "$repo" ]; then
-                echo "Processing repo: $repo"
-                repo_commits=0
-                commit_page=1
-                while :; do
-                  echo "Fetching commits for repo $repo, page $commit_page"
-                  handle_rate_limit
-                  commits=$(fetch_commits "$repo" "$commit_page")
-                  echo "Commits API Response: $commits"  # Log the raw API response
+                if [ "$remaining" -le 10 ]; then
+                  rate_limit=$(curl -s -H "Authorization: token $GH_TOKEN" https://api.github.com/rate_limit)
+                  remaining=$(echo "$rate_limit" | jq '.resources.core.remaining // empty')
+                  reset=$(echo "$rate_limit" | jq '.resources.core.reset // empty')
 
-                  if ! echo "$commits" | jq empty 2>/dev/null; then
-                    echo "Failed to fetch commits or invalid JSON response for repo $repo, page $commit_page: $commits"
-                    break
+                  if [ -z "$remaining" ] || [ -z "$reset" ] || [ "$remaining" -eq 0 ]; then
+                    if [ -n "$reset" ]; then
+                      wait_time=$((reset - $(date +%s) + 1))
+                      echo "Rate limit exceeded or invalid rate limit data. Waiting for reset in $wait_time seconds..."
+                      sleep $wait_time
+                    else
+                      echo "Rate limit data is invalid or missing. Exiting."
+                      exit 1
+                    fi
+                    continue
                   fi
+                fi
 
-                  commit_count=$(echo "$commits" | jq '. | length')
-                  if [ -z "$commit_count" ] || ! [[ "$commit_count" =~ ^[0-9]+$ ]]; then
-                    echo "Invalid or empty commit count: '$commit_count'"
-                    break
-                  fi
-                  if [ "$commit_count" -eq 0 ]; then
-                    echo "No commits found on page $commit_page for repo $repo"
-                    break
-                  fi
-                  echo "Found $commit_count commits on page $commit_page for repo $repo"
-                  repo_commits=$((repo_commits + commit_count))
-                  commit_page=$((commit_page + 1))
-                done
-                echo "Total commits for repo $repo: $repo_commits"
-                total_commits=$((total_commits + repo_commits))
-              else
-                echo "Empty repository name found: '$repo'"
-              fi
+                commits=$(curl -s -H "Authorization: token $GH_TOKEN" -H "Accept: application/vnd.github.v3+json" "https://api.github.com/repos/$repo/commits?per_page=100&page=$commit_page")
+                if ! echo "$commits" | jq empty 2>/dev/null; then
+                  echo "Failed to fetch commits or invalid JSON response for repo $repo, page $commit_page: $commits"
+                  break
+                fi
+
+                commit_count=$(echo "$commits" | jq '. | length')
+                if [ -z "$commit_count" ] || ! [[ "$commit_count" =~ ^[0-9]+$ ]]; then
+                  echo "Invalid or empty commit count: '$commit_count'"
+                  break
+                fi
+                if [ "$commit_count" -eq 0 ]; then
+                  echo "No commits found on page $commit_page for repo $repo"
+                  break
+                fi
+                echo "Found $commit_count commits on page $commit_page for repo $repo"
+                repo_commits=$((repo_commits + commit_count))
+                commit_page=$((commit_page + 1))
+              done
+              echo "Total commits for repo $repo: $repo_commits"
+              total_commits=$((total_commits + repo_commits))
             done
             page=$((page + 1))
           done
