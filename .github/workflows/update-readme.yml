@@ -62,6 +62,8 @@ jobs:
             echo "Fetching repos for page $page"
             handle_rate_limit
             repos=$(fetch_repos)
+            echo "API Response: $repos"  # Log the raw API response
+
             if ! echo "$repos" | jq empty 2>/dev/null; then
               echo "Failed to fetch repositories or invalid JSON response: $repos"
               break
@@ -89,6 +91,7 @@ jobs:
                   echo "Fetching commits for repo $repo, page $commit_page"
                   handle_rate_limit
                   commits=$(fetch_commits "$repo" "$commit_page")
+                  echo "Commits API Response: $commits"  # Log the raw API response
 
                   if ! echo "$commits" | jq empty 2>/dev/null; then
                     echo "Failed to fetch commits or invalid JSON response for repo $repo, page $commit_page: $commits"
