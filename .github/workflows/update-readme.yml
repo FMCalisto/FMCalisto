@@ -8,6 +8,9 @@ on:
 jobs:
   update-commits:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        part: [1-200] # Increase to 200 parts
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -15,15 +18,17 @@ jobs:
       - name: Setup JQ
         run: sudo apt-get install -y jq
 
-      - name: Fetch and Update Commit Count
+      - name: Fetch and Update Commit Count (Part ${{ matrix.part }})
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          PART: ${{ matrix.part }}
         run: |
           total_commits=0
           page=1
-          part_size=50 # Number of repos to fetch per page
+          part_size=5 # Adjust the part size to reduce workload per part
+          repo_start=$(( (PART - 1) * part_size + 1 ))
+          repo_end=$(( PART * part_size ))
           repo_count=0
-          max_retries=5 # Maximum retries for rate limiting
 
           fetch_repos() {
             curl -s -H "Authorization: token $GH_TOKEN" -H "Accept: application/vnd.github.v3+json" "https://api.github.com/user/repos?per_page=$part_size&page=$page"
@@ -53,27 +58,21 @@ jobs:
 
             for repo in $repos; do
               repo_count=$((repo_count + 1))
+              if [ "$repo_count" -lt "$repo_start" ] || [ "$repo_count" -gt "$repo_end" ]; then
+                continue
+              fi
+
               if [ -n "$repo" ]; then
                 echo "Processing repo: $repo"
                 repo_commits=0
                 commit_page=1
-                retries=0
-
                 while :; do
                   echo "Fetching commits for repo $repo, page $commit_page"
                   commits=$(fetch_commits "$repo" "$commit_page")
 
                   if ! echo "$commits" | jq empty 2>/dev/null; then
                     echo "Failed to fetch commits or invalid JSON response for repo $repo, page $commit_page: $commits"
-                    if [ "$retries" -lt "$max_retries" ]; then
-                      retries=$((retries + 1))
-                      echo "Retrying... ($retries/$max_retries)"
-                      sleep 10
-                      continue
-                    else
-                      echo "Max retries reached. Skipping repo $repo."
-                      break
-                    fi
+                    break
                   fi
 
                   commit_count=$(echo "$commits" | jq '. | length')
