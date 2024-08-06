@@ -23,6 +23,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           PART: ${{ matrix.part }}
         run: |
+          set -e
           total_commits=0
           page=1
           part_size=5
