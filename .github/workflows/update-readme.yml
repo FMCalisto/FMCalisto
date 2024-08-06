@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        part: [1-200] # 200 parts to distribute load
+        part: [1-200]
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -25,7 +25,7 @@ jobs:
         run: |
           total_commits=0
           page=1
-          part_size=5 # Adjust part size to reduce load per part
+          part_size=5
           repo_start=$(( (PART - 1) * part_size + 1 ))
           repo_end=$(( PART * part_size ))
           repo_count=0
@@ -98,7 +98,6 @@ jobs:
           done
           echo "Total commits across all repos: $total_commits"
 
-          # Check if README needs update
           if grep -q "Total Commits: [0-9,]*" README.md; then
             sed -i "s/Total Commits: [0-9,]*/Total Commits: ${total_commits}/" README.md
           else
