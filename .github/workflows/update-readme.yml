@@ -31,7 +31,7 @@ jobs:
           repo_count=0
 
           fetch_repos() {
-            curl -s -H "Authorization: token $GH_TOKEN" -H "Accept: application/vnd.github.v3+json" "https://api.github.com/user/repos?per_page=$part_size&page=$page"
+            curl -s -H "Authorization: token $GH_TOKEN" -H "Accept: application/vnd.github.v3+json" "https://api.github.com/user/repos?per_page=100&page=$page"
           }
 
           fetch_commits() {
@@ -40,8 +40,26 @@ jobs:
             curl -s -H "Authorization: token $GH_TOKEN" -H "Accept: application/vnd.github.v3+json" "https://api.github.com/repos/$repo/commits?per_page=100&page=$commit_page"
           }
 
+          handle_rate_limit() {
+            rate_limit=$(curl -s -H "Authorization: token $GH_TOKEN" https://api.github.com/rate_limit)
+            remaining=$(echo "$rate_limit" | jq '.resources.core.remaining // empty')
+            reset=$(echo "$rate_limit" | jq '.resources.core.reset // empty')
+
+            if [ -z "$remaining" ] || [ -z "$reset" ] || [ "$remaining" -eq 0 ]; then
+              if [ -n "$reset" ]; then
+                wait_time=$((reset - $(date +%s) + 1))
+                echo "Rate limit exceeded or invalid rate limit data. Waiting for reset in $wait_time seconds..."
+                sleep $wait_time
+              else
+                echo "Rate limit data is invalid or missing. Exiting."
+                exit 1
+              fi
+            fi
+          }
+
           while :; do
             echo "Fetching repos for page $page"
+            handle_rate_limit
             repos=$(fetch_repos)
             if ! echo "$repos" | jq empty 2>/dev/null; then
               echo "Failed to fetch repositories or invalid JSON response: $repos"
@@ -68,6 +86,7 @@ jobs:
                 commit_page=1
                 while :; do
                   echo "Fetching commits for repo $repo, page $commit_page"
+                  handle_rate_limit
                   commits=$(fetch_commits "$repo" "$commit_page")
 
                   if ! echo "$commits" | jq empty 2>/dev/null; then
