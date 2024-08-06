@@ -21,32 +21,23 @@ jobs:
         run: |
           total_commits=0
           page=1
-          part_size=100 # Number of repos to fetch per page
+          part_size=50 # Number of repos to fetch per page
           repo_count=0
+          max_retries=5 # Maximum retries for rate limiting
+
+          fetch_repos() {
+            curl -s -H "Authorization: token $GH_TOKEN" -H "Accept: application/vnd.github.v3+json" "https://api.github.com/user/repos?per_page=$part_size&page=$page"
+          }
+
+          fetch_commits() {
+            repo=$1
+            commit_page=$2
+            curl -s -H "Authorization: token $GH_TOKEN" -H "Accept: application/vnd.github.v3+json" "https://api.github.com/repos/$repo/commits?per_page=100&page=$commit_page"
+          }
 
           while :; do
             echo "Fetching repos for page $page"
-
-            # Fetch rate limit status
-            rate_limit=$(curl -s -H "Authorization: token $GH_TOKEN" https://api.github.com/rate_limit)
-            remaining=$(echo "$rate_limit" | jq '.resources.core.remaining // empty')
-            reset=$(echo "$rate_limit" | jq '.resources.core.reset // empty')
-
-            # Handle rate limit exceeded
-            if [ -z "$remaining" ] || [ -z "$reset" ] || [ "$remaining" -eq 0 ]; then
-              if [ -n "$reset" ]; then
-                wait_time=$((reset - $(date +%s) + 1))
-                echo "Rate limit exceeded or invalid rate limit data. Waiting for reset in $wait_time seconds..."
-                sleep $wait_time
-              else
-                echo "Rate limit data is invalid or missing. Exiting."
-                exit 1
-              fi
-              continue
-            fi
-
-            # Fetch repositories for the current page
-            repos=$(curl -s -H "Authorization: token $GH_TOKEN" -H "Accept: application/vnd.github.v3+json" "https://api.github.com/user/repos?per_page=$part_size&page=$page")
+            repos=$(fetch_repos)
             if ! echo "$repos" | jq empty 2>/dev/null; then
               echo "Failed to fetch repositories or invalid JSON response: $repos"
               break
@@ -66,32 +57,23 @@ jobs:
                 echo "Processing repo: $repo"
                 repo_commits=0
                 commit_page=1
+                retries=0
+
                 while :; do
                   echo "Fetching commits for repo $repo, page $commit_page"
+                  commits=$(fetch_commits "$repo" "$commit_page")
 
-                  # Fetch commits for the repo, with rate limit check if nearing the limit
-                  if [ "$remaining" -le 10 ]; then
-                    rate_limit=$(curl -s -H "Authorization: token $GH_TOKEN" https://api.github.com/rate_limit)
-                    remaining=$(echo "$rate_limit" | jq '.resources.core.remaining // empty')
-                    reset=$(echo "$rate_limit" | jq '.resources.core.reset // empty')
-
-                    if [ -z "$remaining" ] || [ -z "$reset" ] || [ "$remaining" -eq 0 ]; then
-                      if [ -n "$reset" ]; then
-                        wait_time=$((reset - $(date +%s) + 1))
-                        echo "Rate limit exceeded or invalid rate limit data. Waiting for reset in $wait_time seconds..."
-                        sleep $wait_time
-                      else
-                        echo "Rate limit data is invalid or missing. Exiting."
-                        exit 1
-                      fi
-                      continue
-                    fi
-                  fi
-
-                  commits=$(curl -s -H "Authorization: token $GH_TOKEN" -H "Accept: application/vnd.github.v3+json" "https://api.github.com/repos/$repo/commits?per_page=100&page=$commit_page")
                   if ! echo "$commits" | jq empty 2>/dev/null; then
                     echo "Failed to fetch commits or invalid JSON response for repo $repo, page $commit_page: $commits"
-                    break
+                    if [ "$retries" -lt "$max_retries" ]; then
+                      retries=$((retries + 1))
+                      echo "Retrying... ($retries/$max_retries)"
+                      sleep 10
+                      continue
+                    else
+                      echo "Max retries reached. Skipping repo $repo."
+                      break
+                    fi
                   fi
 
                   commit_count=$(echo "$commits" | jq '. | length')
