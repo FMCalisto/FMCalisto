@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        part: [1-200] # Increase to 200 parts
+        part: [1-200] # 200 parts to distribute load
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -25,7 +25,7 @@ jobs:
         run: |
           total_commits=0
           page=1
-          part_size=5 # Adjust the part size to reduce workload per part
+          part_size=5 # Adjust part size to reduce load per part
           repo_start=$(( (PART - 1) * part_size + 1 ))
           repo_end=$(( PART * part_size ))
           repo_count=0
