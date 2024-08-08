@@ -178,11 +178,11 @@ Most functions of the **R** language are *vectorized*, meaning that [the functio
 ## &#x270d; Discussions
 
 <!-- REDDIT:START -->
+- [/u/FMCalisto on What do you consider &quot;good&quot; data in your field?](https://www.reddit.com/r/research/comments/1ek36ut/what_do_you_consider_good_data_in_your_field/lgl97dn/)
+- [/u/FMCalisto on How much time do you spend on &lpar;compliantly&rpar; managing your research data?](https://www.reddit.com/r/research/comments/1ekiwjo/how_much_time_do_you_spend_on_compliantly/lgl8eo5/)
+- [/u/FMCalisto on WHICH TEST I SHOULD USE?](https://www.reddit.com/r/research/comments/1ejajm8/which_test_i_should_use/lgl7hj5/)
+- [/u/FMCalisto on WHICH TEST I SHOULD USE?](https://www.reddit.com/r/research/comments/1ejajm8/which_test_i_should_use/lgdy34u/)
 - [/u/FMCalisto on Para além da informática, que áreas e profissões pagam bem?](https://www.reddit.com/r/portugal/comments/1drxr33/para_além_da_informática_que_áreas_e_profissões/lb1adva/)
-- [/u/FMCalisto on is chatgpt down?](https://www.reddit.com/r/ChatGPT/comments/1di5e9l/is_chatgpt_down/l923jxh/)
-- [Temas de Dissertação em MEIC nas áreas de IA aplicada à Saúde](https://www.reddit.com/r/IST/comments/1ddgq4g/temas_de_dissertação_em_meic_nas_áreas_de_ia/)
-- [Temas de Dissertação em Engenharia Biomédica com Foco em IA](https://www.reddit.com/r/IST/comments/1d82z6d/temas_de_dissertação_em_engenharia_biomédica_com/)
-- [/u/FMCalisto on Professor Tese MEIC](https://www.reddit.com/r/IST/comments/1cy20cs/professor_tese_meic/l71iz3r/)
 <!-- REDDIT:END -->
 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/FMCalisto)
