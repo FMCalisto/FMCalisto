@@ -17,46 +17,19 @@ jobs:
 
       - name: Fetch and Update Commit Count
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          MAX_RUNTIME: 5100  # 1 hour 25 minutes (in seconds)
+          UPDATE_README: ${{ secrets.UPDATE_README }}
         run: |
           total_commits=0
           page=1
-          start_time=$(date +%s)
+          max_pages=5000  # Limit to avoid infinite loops
+          commits_per_repo=1000  # Limit number of commits to fetch per repository
+          repo_limit=50  # Process a limited number of repos per run
 
-          while :; do
-            current_time=$(date +%s)
-            elapsed_time=$((current_time - start_time))
-
-            if [ "$elapsed_time" -ge "$MAX_RUNTIME" ]; then
-              echo "Reached the maximum runtime of 1 hour 25 minutes, stopping to prevent timeout."
-              break
-            fi
-
+          while [ $page -le $max_pages ]; do
             echo "Fetching repos for page $page"
 
-            rate_limit=$(curl -s -H "Authorization: token $GH_TOKEN" https://api.github.com/rate_limit)
-            remaining=$(echo "$rate_limit" | jq '.resources.core.remaining // empty')
-            reset=$(echo "$rate_limit" | jq '.resources.core.reset // empty')
-
-            if [ -z "$remaining" ] || [ -z "$reset" ] || [ "$remaining" -eq 0 ]; then
-              if [ -n "$reset" ]; then
-                wait_time=$((reset - $(date +%s) + 1))
-                echo "Rate limit exceeded or invalid rate limit data. Waiting for reset in $wait_time seconds..."
-                sleep $wait_time
-              else
-                echo "Rate limit data is invalid or missing. Exiting."
-                exit 1
-              fi
-              continue
-            fi
-
-            repos=$(curl -s -H "Authorization: token $GH_TOKEN" -H "Accept: application/vnd.github.v3+json" "https://api.github.com/user/repos?per_page=50&page=$page")
-            if ! echo "$repos" | jq empty 2>/dev/null; then
-              echo "Failed to fetch repositories or invalid JSON response: $repos"
-              break
-            fi
-
+            # Fetch repositories
+            repos=$(curl -s -H "Authorization: token $UPDATE_README" -H "Accept: application/vnd.github.v3+json" "https://api.github.com/user/repos?per_page=100&page=$page")
             repos=$(echo "$repos" | jq -r '.[].full_name // empty')
             echo "Repositories fetched: $repos"
 
@@ -65,57 +38,56 @@ jobs:
               break
             fi
 
+            repo_count=0
             for repo in $repos; do
+              repo_count=$((repo_count + 1))
+              if [ $repo_count -gt $repo_limit ]; then
+                echo "Repo limit reached. Stopping."
+                break
+              fi
+
               echo "Processing repo: $repo"
               repo_commits=0
               commit_page=1
-              while :; do
+
+              while [ $commit_page -le 10 ]; do  # Limiting to first 10 pages per repo
                 echo "Fetching commits for repo $repo, page $commit_page"
 
-                if [ "$remaining" -le 10 ]; then
-                  rate_limit=$(curl -s -H "Authorization: token $GH_TOKEN" https://api.github.com/rate_limit)
-                  remaining=$(echo "$rate_limit" | jq '.resources.core.remaining // empty')
-                  reset=$(echo "$rate_limit" | jq '.resources.core.reset // empty')
-
-                  if [ -z "$remaining" ] || [ -z "$reset" ] || [ "$remaining" -eq 0 ]; then
-                    if [ -n "$reset" ]; then
-                      wait_time=$((reset - $(date +%s) + 1))
-                      echo "Rate limit exceeded or invalid rate limit data. Waiting for reset in $wait_time seconds..."
-                      sleep $wait_time
-                    else
-                      echo "Rate limit data is invalid or missing. Exiting."
-                      exit 1
-                    fi
-                    continue
-                  fi
-                fi
-
-                commits=$(curl -s -H "Authorization: token $GH_TOKEN" -H "Accept: application/vnd.github.v3+json" "https://api.github.com/repos/$repo/commits?per_page=50&page=$commit_page")
-                if ! echo "$commits" | jq empty 2>/dev/null; then
-                  echo "Failed to fetch commits or invalid JSON response for repo $repo, page $commit_page: $commits"
-                  break
-                fi
-
+                commits=$(curl -s -H "Authorization: token $UPDATE_README" -H "Accept: application/vnd.github.v3+json" "https://api.github.com/repos/$repo/commits?per_page=100&page=$commit_page")
                 commit_count=$(echo "$commits" | jq '. | length')
-                if [ -z "$commit_count" ] || ! [[ "$commit_count" =~ ^[0-9]+$ ]]; then
-                  echo "Invalid or empty commit count: '$commit_count'"
-                  break
-                fi
+
                 if [ "$commit_count" -eq 0 ]; then
-                  echo "No commits found on page $commit_page for repo $repo"
+                  echo "No more commits found on page $commit_page for repo $repo"
                   break
                 fi
+
                 echo "Found $commit_count commits on page $commit_page for repo $repo"
                 repo_commits=$((repo_commits + commit_count))
                 commit_page=$((commit_page + 1))
+
+                # Stop fetching commits if the limit is reached
+                if [ $repo_commits -ge $commits_per_repo ]; then
+                  echo "Commit limit reached for repo $repo"
+                  break
+                fi
               done
+
               echo "Total commits for repo $repo: $repo_commits"
               total_commits=$((total_commits + repo_commits))
             done
+
             page=$((page + 1))
+
+            # Stop if repo limit is reached
+            if [ $repo_count -ge $repo_limit ]; then
+              echo "Repo limit reached. Stopping."
+              break
+            fi
           done
+
           echo "Total commits across all repos: $total_commits"
 
+          # Update README with total commits
           if grep -q "Total Commits: [0-9,]*" README.md; then
             sed -i "s/Total Commits: [0-9,]*/Total Commits: ${total_commits}/" README.md
           else
