@@ -87,11 +87,17 @@ jobs:
 
           echo "Total commits across all repos: $total_commits"
 
-          # Update README with total commits
-          if grep -q "Total Commits: [0-9,]*" README.md; then
-            sed -i "s/Total Commits: [0-9,]*/Total Commits: ${total_commits}/" README.md
+          # Update README with total commits if it has changed
+          current_commits=$(grep -o "Total Commits: [0-9,]*" README.md | grep -o "[0-9,]*")
+          if [ "$current_commits" != "$total_commits" ]; then
+            echo "Updating README.md with new total commits"
+            if grep -q "Total Commits: [0-9,]*" README.md; then
+              sed -i "s/Total Commits: [0-9,]*/Total Commits: ${total_commits}/" README.md
+            else
+              echo "Total Commits: ${total_commits}" >> README.md
+            fi
           else
-            echo "Total Commits: ${total_commits}" >> README.md
+            echo "No change in total commits, skipping update."
           fi
 
       - name: Commit changes
@@ -99,5 +105,9 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
           git add README.md
-          git commit -m "Update total commits in README"
-          git push || true
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "Update total commits in README"
+            git push
+          else
+            echo "No changes to commit"
+          fi
