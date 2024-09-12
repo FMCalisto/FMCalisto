@@ -178,11 +178,11 @@ Most functions of the **R** language are *vectorized*, meaning that [the functio
 ## &#x270d; Discussions
 
 <!-- REDDIT:START -->
+- [Exploring AI&#39;s Impact on Breast Cancer Diagnosis: Insights from Radiologists Needed](https://www.reddit.com/r/radiologyAI/comments/1fdvxp0/exploring_ais_impact_on_breast_cancer_diagnosis/)
+- [How AI is Revolutionizing Breast Cancer Diagnosis in Radiology: Share Your Insights](https://www.reddit.com/r/Radiology/comments/1fdvq6z/how_ai_is_revolutionizing_breast_cancer_diagnosis/)
 - [/u/FMCalisto on [BreastScreening-AI] User testing for Master Thesis](https://www.reddit.com/r/radiologyAI/comments/1er58oo/breastscreeningai_user_testing_for_master_thesis/lhxrm24/)
 - [/u/FMCalisto on Reading research papers to find a research topic](https://www.reddit.com/r/research/comments/1ep34rl/reading_research_papers_to_find_a_research_topic/lhi7zli/)
 - [/u/FMCalisto on What do you consider &quot;good&quot; data in your field?](https://www.reddit.com/r/research/comments/1ek36ut/what_do_you_consider_good_data_in_your_field/lgl97dn/)
-- [/u/FMCalisto on How much time do you spend on &lpar;compliantly&rpar; managing your research data?](https://www.reddit.com/r/research/comments/1ekiwjo/how_much_time_do_you_spend_on_compliantly/lgl8eo5/)
-- [/u/FMCalisto on WHICH TEST I SHOULD USE?](https://www.reddit.com/r/research/comments/1ejajm8/which_test_i_should_use/lgl7hj5/)
 <!-- REDDIT:END -->
 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/FMCalisto)
