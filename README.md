@@ -206,4 +206,4 @@ Most functions of the **R** language are *vectorized*, meaning that [the functio
 Join me on Telegram:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FMCalistoChannel)
-Total Commits: 5915
+Total Commits: 5917
