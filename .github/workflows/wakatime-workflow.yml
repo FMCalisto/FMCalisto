@@ -2,8 +2,8 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs at 3am UTC (less busy time)
-    - cron: '0 4 * * 1'  # Change the time to 4 AM UTC (or another less busy time)
+    # Runs at 12am IST
+    - cron: '0 3 * * 1'
   workflow_dispatch:
 
 jobs:
@@ -11,7 +11,11 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@v2.0.0
+      - name: Run waka-readme-stats with retry
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        retry:
+          max-attempts: 3
+          delay-seconds: 30
