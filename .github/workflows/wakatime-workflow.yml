@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   schedule:
     # Runs at 3am UTC (less busy time)
-    - cron: '0 3 * * *'
+    - cron: '0 4 * * 1'  # Change the time to 4 AM UTC (or another less busy time)
   workflow_dispatch:
 
 jobs:
