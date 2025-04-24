@@ -178,11 +178,11 @@ Most functions of the **R** language are *vectorized*, meaning that [the functio
 ## &#x270d; Discussions
 
 <!-- REDDIT:START -->
-- [Calling All Clinicians: Help Advance Healthcare Technology](https://www.reddit.com/r/medicalschool/comments/1i0bnfz/calling_all_clinicians_help_advance_healthcare/)
-- [Calling All Clinicians: Help Advance Healthcare Technology](https://www.reddit.com/r/Radiology/comments/1i0bn8y/calling_all_clinicians_help_advance_healthcare/)
-- [Calling All Clinicians: Help Advance Healthcare Technology](https://www.reddit.com/r/clinicalresearch/comments/1i0bmrf/calling_all_clinicians_help_advance_healthcare/)
-- [Calling All Clinicians: Help Advance Healthcare Technology](https://www.reddit.com/r/MedicalPhysics/comments/1i0bm8o/calling_all_clinicians_help_advance_healthcare/)
-- [Exploring AI&#39;s Impact on Breast Cancer Diagnosis: Insights from Radiologists Needed](https://www.reddit.com/r/radiologyAI/comments/1fdvxp0/exploring_ais_impact_on_breast_cancer_diagnosis/)
+- [A Study about Human Factors in AI for Radiology](https://www.reddit.com/r/doctorsUK/comments/1k63q2w/a_study_about_human_factors_in_ai_for_radiology/)
+- [A Study about Human Factors in AI for Radiology](https://www.reddit.com/r/Residency/comments/1k63od1/a_study_about_human_factors_in_ai_for_radiology/)
+- [We need Radiologists](https://www.reddit.com/r/SampleSize/comments/1k63nlb/we_need_radiologists/)
+- [A Study about Human Factors in AI for Radiology](https://www.reddit.com/r/indianmedschool/comments/1k63mar/a_study_about_human_factors_in_ai_for_radiology/)
+- [A Study about Human Factors in AI for Radiology](https://www.reddit.com/r/radiologyAI/comments/1k63jrk/a_study_about_human_factors_in_ai_for_radiology/)
 <!-- REDDIT:END -->
 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/FMCalisto)
