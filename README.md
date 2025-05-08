@@ -178,11 +178,11 @@ Most functions of the **R** language are *vectorized*, meaning that [the functio
 ## &#x270d; Discussions
 
 <!-- REDDIT:START -->
-- [A Study about Human Factors in AI for Radiology](https://www.reddit.com/r/doctorsUK/comments/1k63q2w/a_study_about_human_factors_in_ai_for_radiology/)
-- [A Study about Human Factors in AI for Radiology](https://www.reddit.com/r/Residency/comments/1k63od1/a_study_about_human_factors_in_ai_for_radiology/)
-- [We need Radiologists](https://www.reddit.com/r/SampleSize/comments/1k63nlb/we_need_radiologists/)
-- [A Study about Human Factors in AI for Radiology](https://www.reddit.com/r/indianmedschool/comments/1k63mar/a_study_about_human_factors_in_ai_for_radiology/)
-- [A Study about Human Factors in AI for Radiology](https://www.reddit.com/r/radiologyAI/comments/1k63jrk/a_study_about_human_factors_in_ai_for_radiology/)
+- [/u/FMCalisto on Our new AI model will detect breast cancer 5 years early!](https://www.reddit.com/r/Jokes/comments/1hwbg3r/our_new_ai_model_will_detect_breast_cancer_5/mqakhy4/)
+- [/u/FMCalisto on A new AI can detect nearly 100% of cancer cases with high accuracy, easily outperforming most doctors](https://www.reddit.com/r/HotScienceNews/comments/1jp1ut8/a_new_ai_can_detect_nearly_100_of_cancer_cases/mqakebq/)
+- [/u/FMCalisto on Don&#39;t trust Google&#39;s AI](https://www.reddit.com/r/Radiology/comments/1hcq6nu/dont_trust_googles_ai/mqakclo/)
+- [/u/FMCalisto on More breast cancer cases found when AI used in screenings, study finds | First real-world test finds approach has higher detection rate without having a higher rate of false positives](https://www.reddit.com/r/science/comments/1hvp6u4/more_breast_cancer_cases_found_when_ai_used_in/mqak9j2/)
+- [/u/FMCalisto on Researchers Develop Deep Learning Model to Predict Breast Cancer](https://www.reddit.com/r/OpenAI/comments/1i26i1e/researchers_develop_deep_learning_model_to/mqak5dh/)
 <!-- REDDIT:END -->
 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/FMCalisto)
