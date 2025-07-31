@@ -178,11 +178,11 @@ Most functions of the **R** language are *vectorized*, meaning that [the functio
 ## &#x270d; Discussions
 
 <!-- REDDIT:START -->
-- [/u/FMCalisto on Our new AI model will detect breast cancer 5 years early!](https://www.reddit.com/r/Jokes/comments/1hwbg3r/our_new_ai_model_will_detect_breast_cancer_5/mqakhy4/)
-- [/u/FMCalisto on A new AI can detect nearly 100% of cancer cases with high accuracy, easily outperforming most doctors](https://www.reddit.com/r/HotScienceNews/comments/1jp1ut8/a_new_ai_can_detect_nearly_100_of_cancer_cases/mqakebq/)
-- [/u/FMCalisto on Don&#39;t trust Google&#39;s AI](https://www.reddit.com/r/Radiology/comments/1hcq6nu/dont_trust_googles_ai/mqakclo/)
-- [/u/FMCalisto on More breast cancer cases found when AI used in screenings, study finds | First real-world test finds approach has higher detection rate without having a higher rate of false positives](https://www.reddit.com/r/science/comments/1hvp6u4/more_breast_cancer_cases_found_when_ai_used_in/mqak9j2/)
-- [/u/FMCalisto on Researchers Develop Deep Learning Model to Predict Breast Cancer](https://www.reddit.com/r/OpenAI/comments/1i26i1e/researchers_develop_deep_learning_model_to/mqak5dh/)
+- [/u/FMCalisto on Can the Teamwork Assessment Scale Really Capture Human-AI Teaming?](https://www.reddit.com/r/humanfactors/comments/1mcq049/can_the_teamwork_assessment_scale_really_capture/n5y3dhn/)
+- [/u/FMCalisto on advice on writing a paper for CHI 2026](https://www.reddit.com/r/hci/comments/1lyk2f6/advice_on_writing_a_paper_for_chi_2026/n5vxi70/)
+- [/u/FMCalisto on Starting HCI Master’s Soon – How Do I Catch Up?](https://www.reddit.com/r/hci/comments/1m21oi4/starting_hci_masters_soon_how_do_i_catch_up/n5vw48i/)
+- [/u/FMCalisto on Need portfolio advice for MS-HCI degree](https://www.reddit.com/r/hci/comments/1m3x4ml/need_portfolio_advice_for_mshci_degree/n5vt7nf/)
+- [/u/FMCalisto on Using work data for ACM CHI paper](https://www.reddit.com/r/hci/comments/1m8opsx/using_work_data_for_acm_chi_paper/n5vsesb/)
 <!-- REDDIT:END -->
 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/FMCalisto)
