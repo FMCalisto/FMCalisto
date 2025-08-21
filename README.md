@@ -178,11 +178,11 @@ Most functions of the **R** language are *vectorized*, meaning that [the functio
 ## &#x270d; Discussions
 
 <!-- REDDIT:START -->
+- [/u/FMCalisto on Can the Teamwork Assessment Scale Really Capture Human-AI Teaming?](https://www.reddit.com/r/humanfactors/comments/1mcq049/can_the_teamwork_assessment_scale_really_capture/n8mo9zt/)
 - [/u/FMCalisto on Finally landed a UX role after 6 months on the edge… the “cringe” interview hacks that got me there](https://www.reddit.com/r/UXDesign/comments/1mfkka3/finally_landed_a_ux_role_after_6_months_on_the/n6lh69j/)
 - [/u/FMCalisto on Can the Teamwork Assessment Scale Really Capture Human-AI Teaming?](https://www.reddit.com/r/humanfactors/comments/1mcq049/can_the_teamwork_assessment_scale_really_capture/n663po5/)
 - [/u/FMCalisto on Can the Teamwork Assessment Scale Really Capture Human-AI Teaming?](https://www.reddit.com/r/humanfactors/comments/1mcq049/can_the_teamwork_assessment_scale_really_capture/n5y3dhn/)
 - [/u/FMCalisto on advice on writing a paper for CHI 2026](https://www.reddit.com/r/hci/comments/1lyk2f6/advice_on_writing_a_paper_for_chi_2026/n5vxi70/)
-- [/u/FMCalisto on Starting HCI Master’s Soon – How Do I Catch Up?](https://www.reddit.com/r/hci/comments/1m21oi4/starting_hci_masters_soon_how_do_i_catch_up/n5vw48i/)
 <!-- REDDIT:END -->
 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/FMCalisto)
