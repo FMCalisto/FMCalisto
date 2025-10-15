@@ -63,11 +63,11 @@ Contributing to the open source community can be challenging and sometimes terri
 ### &#x1F440; StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Francisco Maria Calisto for How to enable progressive loading of NIfTI images?](https://stackoverflow.com/questions/79417485/how-to-enable-progressive-loading-of-nifti-images/79789297#79789297)
 - [Slurm cgroups Plugin Errors on Ubuntu Nodes](https://stackoverflow.com/questions/77574925/slurm-cgroups-plugin-errors-on-ubuntu-nodes)
 - [Answer by Francisco Maria Calisto for request effect size for Each pair of the ANOVA pairwise comparisons?](https://stackoverflow.com/questions/75804206/request-effect-size-for-each-pair-of-the-anova-pairwise-comparisons/75804790#75804790)
 - [Answer by Francisco Maria Calisto for Not enough input arguments using radiomics package](https://stackoverflow.com/questions/59308919/not-enough-input-arguments-using-radiomics-package/75755715#75755715)
 - [Answer by Francisco Maria Calisto for Find Similarity on Excel Column - Brand, Product Name and Weight](https://stackoverflow.com/questions/75719576/find-similarity-on-excel-column-brand-product-name-and-weight/75720047#75720047)
-- [What is the difference between a CornerstoneJS viewport and an image object?](https://stackoverflow.com/questions/75650908/what-is-the-difference-between-a-cornerstonejs-viewport-and-an-image-object)
 <!-- STACKOVERFLOW:END -->
 
 [![StackOverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2371987/francisco-maria-calisto)
