@@ -117,11 +117,11 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
 https://fmcalisto.hashnode.dev/)
 
 <!-- FCC:START -->
+- [How to Structure Your README File – README Template Example](https://www.freecodecamp.org/news/how-to-structure-your-readme-file/)
 - [Key Metrics That Can Make or Break Your Startup](https://www.freecodecamp.org/news/key-metrics-that-can-make-or-break-your-startup/)
 - [Here are 850+ Ivy League Courses You Can Take Right Now for Free](https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/)
 - [I uncovered 1700 Coursera Courses that Are Still Completely Free](https://www.freecodecamp.org/news/coursera-free-online-courses-6d84cdb30da/)
 - [How to Rock the Coding Interview – Tips That Helped Me Land Job Offers from Google, Airbnb, and Dropbox](https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/)
-- [Why I Turned Down a Six-Figure Salary in Big Tech to Stay at a Five-Person Startup](https://www.freecodecamp.org/news/why-i-turned-down-a-six-figure-salary-in-big-tech-to-stay-at-a-five-person-startup/)
 <!-- FCC:END -->
 
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/FMGFCalisto)
