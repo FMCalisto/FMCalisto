@@ -119,7 +119,7 @@ https://fmcalisto.hashnode.dev/)
 <!-- FCC:START -->
 - [How to Structure Your README File – README Template Example](https://www.freecodecamp.org/news/how-to-structure-your-readme-file/)
 - [Key Metrics That Can Make or Break Your Startup](https://www.freecodecamp.org/news/key-metrics-that-can-make-or-break-your-startup/)
-- [Here are 850+ Ivy League Courses You Can Take Right Now for Free](https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/)
+- [Here Are 850+ Ivy League Courses You Can Take Right Now for Free](https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/)
 - [I uncovered 1700 Coursera Courses that Are Still Completely Free](https://www.freecodecamp.org/news/coursera-free-online-courses-6d84cdb30da/)
 - [How to Rock the Coding Interview – Tips That Helped Me Land Job Offers from Google, Airbnb, and Dropbox](https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/)
 <!-- FCC:END -->
