@@ -117,11 +117,11 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
 https://fmcalisto.hashnode.dev/)
 
 <!-- FCC:START -->
+- [The AWS FinOps Guide for Series A Startups: The 8 Cost Patterns That Appear After Product-Market Fit](https://www.freecodecamp.org/news/the-aws-finops-guide-for-series-a-startups/)
 - [Common DevOps Mistakes and How to Avoid Them — Tips for Startups](https://www.freecodecamp.org/news/how-to-avoid-devops-mistakes/)
 - [The Lithography Handbook: Machines, Markets, and the Next Wave of Semiconductor Startups](https://www.freecodecamp.org/news/the-lithography-handbook-machines-markets-and-the-next-wave-of-semiconductor-startups/)
 - [How to Structure Your README File – README Template Example](https://www.freecodecamp.org/news/how-to-structure-your-readme-file/)
 - [Key Metrics That Can Make or Break Your Startup](https://www.freecodecamp.org/news/key-metrics-that-can-make-or-break-your-startup/)
-- [Here Are 850+ Ivy League Courses You Can Take Right Now for Free](https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/)
 <!-- FCC:END -->
 
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/FMGFCalisto)
